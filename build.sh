@@ -2,7 +2,7 @@
 
 cd src/
 
-python3 generate_data.py
+python generate_data.py
 
 cd ../
 
