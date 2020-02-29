@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup
 import json
 import pandas as pd
 import re
+from collections import OrderedDict
 
-data = {
+data = OrderedDict({
     "Mirae Asset Emerging Bluechip Fund": "https://www.etmoney.com/mutual-funds/mirae-asset-emerging-bluechip-fund-direct-growth/16126",
     "SBI Small Cap Fund": "https://www.etmoney.com/mutual-funds/sbi-small-cap-fund-direct-growth/15354",
     "Axis Small Cap Fund": "https://www.etmoney.com/mutual-funds/axis-small-cap-fund-direct-growth/21859",
@@ -20,7 +21,7 @@ data = {
     "Invesco India Growth Opportunities Fund": "https://www.etmoney.com/mutual-funds/invesco-india-growth-opportunities-fund-direct-growth/16333",
     "Axis Focused 25 Fund": "https://www.etmoney.com/mutual-funds/axis-focused-25-direct-plan-growth/15251",
     "Axis Bluechip Fund": "https://www.etmoney.com/mutual-funds/axis-bluechip-fund-direct-plan-growth/15249"
-}
+})
 
 json_data = []
 
