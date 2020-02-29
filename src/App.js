@@ -10,10 +10,11 @@ class App extends Component {
     return (
       <div className="App">
         <ul>
-          {this.state.data.map(element => 
+          {this.state.data.data.map(element => 
             <li>{element.name} - {element.change.toFixed(3)}%</li>
           )}
         </ul>
+          <span>Last Updated - {this.state.data.date}</span>
       </div>
     );
   }

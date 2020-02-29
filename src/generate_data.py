@@ -4,6 +4,7 @@ import json
 import pandas as pd
 import re
 from collections import OrderedDict
+from datetime import datetime
 
 data = OrderedDict({
     "Mirae Asset Emerging Bluechip Fund": "https://www.etmoney.com/mutual-funds/mirae-asset-emerging-bluechip-fund-direct-growth/16126",
@@ -29,8 +30,8 @@ df = pd.read_csv('symbols.csv', encoding = "ISO-8859-1")
 
 cache = {}
 
-for fund in data:
-    req = requests.get(data[fund])
+for fund, url in data.items():
+    req = requests.get(url)
     soup = BeautifulSoup(req.text, "lxml")
     holdings = soup.find("div", class_="holding-list-modal")
     holdings = holdings.find_all("div", class_="mfScheme-fund-progress")
@@ -98,5 +99,9 @@ for fund in data:
     
     json_data.append({"name": fund, "holdings": holding_data, "equity": equity_pc, "change": total_change})
 
+now = datetime.now()
+
+dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+
 with open('data.json', 'w') as f:
-    json.dump(json_data, f)
+    json.dump({"data": json_data, "date": dt_string}, f)
