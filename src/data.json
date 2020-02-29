@@ -1,0 +1,3471 @@
+[{
+    "name": "Mirae Asset Emerging Bluechip Fund",
+    "holdings": [{
+        "name": "HDFC Bank Ltd.",
+        "pc": 6.95,
+        "symbol": "HDFCBANK",
+        "diff": -1.82
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 5.66,
+        "symbol": "ICICIBANK",
+        "diff": -3.51
+    }, {
+        "name": "State Bank of India",
+        "pc": 4.36,
+        "symbol": "SBIN",
+        "diff": -5.89
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 4.12,
+        "symbol": "RELIANCE",
+        "diff": -4.16
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 3.96,
+        "symbol": "AXISBANK",
+        "diff": -5.24
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 3.55,
+        "symbol": "LT",
+        "diff": -1.88
+    }, {
+        "name": "Voltas Ltd.",
+        "pc": 3.08,
+        "symbol": "VOLTAS",
+        "diff": -0.9
+    }, {
+        "name": "Infosys Ltd.",
+        "pc": 2.69,
+        "symbol": "INFY",
+        "diff": -5.93
+    }, {
+        "name": "Gujarat State Petronet Ltd.",
+        "pc": 2.48,
+        "symbol": "GSPL",
+        "diff": -3.39
+    }, {
+        "name": "Page Industries Ltd.",
+        "pc": 2.46,
+        "symbol": "PAGEIND",
+        "diff": 0.01
+    }, {
+        "name": "Max Financial Services Ltd.",
+        "pc": 2.45,
+        "symbol": "MFSL",
+        "diff": -3.41
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 2.41,
+        "symbol": "TCS",
+        "diff": -5.0
+    }, {
+        "name": "MindTree Ltd.",
+        "pc": 2.27,
+        "symbol": "MINDTREE",
+        "diff": -4.23
+    }, {
+        "name": "Indusind Bank Ltd.",
+        "pc": 2.15,
+        "symbol": "INDUSINDBK",
+        "diff": -1.03
+    }, {
+        "name": "Power Finance Corpn. Ltd.",
+        "pc": 1.97,
+        "symbol": "PFC",
+        "diff": -12.51
+    }, {
+        "name": "Tata Global Beverages Ltd.",
+        "pc": 1.93,
+        "symbol": "TATACONSUM",
+        "diff": -4.72
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 1.92,
+        "symbol": "BALKRISIND",
+        "diff": -6.56
+    }, {
+        "name": "Hindustan Petroleum Corpn. Ltd.",
+        "pc": 1.88,
+        "symbol": "HINDPETRO",
+        "diff": -3.35
+    }, {
+        "name": "Dr. Lal Pathlabs Ltd.",
+        "pc": 1.85,
+        "symbol": "LALPATHLAB",
+        "diff": -0.86
+    }, {
+        "name": "Dabur India Ltd.",
+        "pc": 1.8,
+        "symbol": "DABUR",
+        "diff": -2.02
+    }, {
+        "name": "Tata Chemicals Ltd.",
+        "pc": 1.78,
+        "symbol": "TATACHEM",
+        "diff": -2.43
+    }, {
+        "name": "Ajanta Pharma Ltd.",
+        "pc": 1.77,
+        "symbol": "AJANTPHARM",
+        "diff": -1.04
+    }, {
+        "name": "ITC Ltd.",
+        "pc": 1.74,
+        "symbol": "ITC",
+        "diff": 0.0
+    }, {
+        "name": "Syngene International Ltd.",
+        "pc": 1.65,
+        "symbol": "SYNGENE",
+        "diff": -1.22
+    }, {
+        "name": "Maruti Suzuki India Ltd.",
+        "pc": 1.63,
+        "symbol": "MARUTI",
+        "diff": -0.11
+    }, {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "pc": 1.59,
+        "symbol": "ABFRL",
+        "diff": -3.97
+    }, {
+        "name": "TVS Motor Co. Ltd.",
+        "pc": 1.57,
+        "symbol": "TVSMOTOR",
+        "diff": -0.89
+    }, {
+        "name": "Ipca Laboratories Ltd.",
+        "pc": 1.55,
+        "symbol": "IPCALAB",
+        "diff": 1.0
+    }, {
+        "name": "Muthoot Finance Ltd.",
+        "pc": 1.46,
+        "symbol": "MUTHOOTFIN",
+        "diff": -5.43
+    }, {
+        "name": "SRF Ltd.",
+        "pc": 1.45,
+        "symbol": "SRF",
+        "diff": -6.03
+    }, {
+        "name": "National Thermal Power Corp. Ltd.",
+        "pc": 1.4,
+        "symbol": "NTPC",
+        "diff": -2.29
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 1.35,
+        "symbol": "KOTAKBANK",
+        "diff": -3.71
+    }, {
+        "name": "Kansai Nerolac Paints Ltd.",
+        "pc": 1.26,
+        "symbol": "KANSAINER",
+        "diff": 0.09
+    }, {
+        "name": "JK Cement Ltd",
+        "pc": 1.25,
+        "symbol": "JKCEMENT",
+        "diff": -1.62
+    }, {
+        "name": "Vinati Organics Ltd.",
+        "pc": 1.23,
+        "symbol": "VINATIORGA",
+        "diff": -5.7
+    }, {
+        "name": "Tata Steel Ltd.",
+        "pc": 1.18,
+        "symbol": "TATASTEEL",
+        "diff": -7.52
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 1.18,
+        "symbol": "BEL",
+        "diff": -4.52
+    }, {
+        "name": "Natco Pharma Ltd.",
+        "pc": 1.16,
+        "symbol": "NATCOPHARM",
+        "diff": -0.64
+    }, {
+        "name": "Sun Pharmaceutical Inds. Ltd.",
+        "pc": 1.15,
+        "symbol": "SUNPHARMA",
+        "diff": -4.02
+    }, {
+        "name": "Havells India Ltd.",
+        "pc": 1.08,
+        "symbol": "HAVELLS",
+        "diff": -4.02
+    }, {
+        "name": "Indian Energy Exchange Ltd.",
+        "pc": 1.04,
+        "symbol": "IEX",
+        "diff": -7.04
+    }, {
+        "name": "Jyothy Laboratories Ltd.",
+        "pc": 1.02,
+        "symbol": "JYOTHYLAB",
+        "diff": -3.83
+    }, {
+        "name": "Torrent Pharmaceuticals Ltd.",
+        "pc": 0.97,
+        "symbol": "TORNTPHARM",
+        "diff": -0.86
+    }, {
+        "name": "SKF India Ltd.",
+        "pc": 0.96,
+        "symbol": "SKFINDIA",
+        "diff": -1.04
+    }, {
+        "name": "HDFC Standard Life Insurance Company Ltd.",
+        "pc": 0.94,
+        "symbol": "HDFCLIFE",
+        "diff": -3.99
+    }, {
+        "name": "Raymond Ltd.",
+        "pc": 0.88,
+        "symbol": "RAYMOND",
+        "diff": -7.6
+    }, {
+        "name": "Emami Ltd.",
+        "pc": 0.85,
+        "symbol": "EMAMILTD",
+        "diff": -2.95
+    }, {
+        "name": "Hindustan Unilever Ltd.",
+        "pc": 0.83,
+        "symbol": "HINDUNILVR",
+        "diff": -3.56
+    }, {
+        "name": "Titan Company Ltd.",
+        "pc": 0.72,
+        "symbol": "TITAN",
+        "diff": -1.83
+    }, {
+        "name": "Gateway Distriparks Ltd.",
+        "pc": 0.67,
+        "symbol": "GDL",
+        "diff": -2.06
+    }, {
+        "name": "Ceat Ltd.",
+        "pc": 0.61,
+        "symbol": "CEATLTD",
+        "diff": 0.83
+    }, {
+        "name": "Coal India Ltd.",
+        "pc": 0.5,
+        "symbol": "COALINDIA",
+        "diff": -3.27
+    }, {
+        "name": "Equitas Micro Finance India Pvt Ltd.",
+        "pc": 0.43,
+        "symbol": "EQUITAS",
+        "diff": -5.27
+    }, {
+        "name": "Finolex Cables Ltd.",
+        "pc": 0.41,
+        "symbol": "FINCABLES",
+        "diff": -4.19
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 0.23,
+        "symbol": "DIVISLAB",
+        "diff": -2.3
+    }, {
+        "name": "Info Edge (India) Ltd.",
+        "pc": 0.12,
+        "symbol": "NAUKRI",
+        "diff": 1.02
+    }, {
+        "name": "National Aluminium Co. Ltd.",
+        "pc": 0.11,
+        "symbol": "NATIONALUM",
+        "diff": -3.46
+    }, {
+        "name": "Khadim India Ltd.",
+        "pc": 0.05,
+        "symbol": "KHADIM",
+        "diff": -5.91
+    }],
+    "equity": 99.69772649,
+    "change": -3.294367699674169
+}, {
+    "name": "SBI Small Cap Fund",
+    "holdings": [{
+        "name": "Dixon Technologies (India) Ltd.",
+        "pc": 5.02,
+        "symbol": "DIXON",
+        "diff": -4.72
+    }, {
+        "name": "Hawkins Cookers Ltd.",
+        "pc": 4.39,
+        "symbol": "HAWKINCOOK",
+        "diff": -4.61
+    }, {
+        "name": "JK Cement Ltd",
+        "pc": 4.08,
+        "symbol": "HAWKINCOOK",
+        "diff": -1.62
+    }, {
+        "name": "Hatsun Agro Products Ltd.",
+        "pc": 3.87,
+        "symbol": "HATSUN",
+        "diff": -4.65
+    }, {
+        "name": "Relaxo Footwears Ltd.",
+        "pc": 3.8,
+        "symbol": "RELAXO",
+        "diff": -3.37
+    }, {
+        "name": "Narayana Hrudayalaya Ltd.",
+        "pc": 3.64,
+        "symbol": "NH",
+        "diff": -3.09
+    }, {
+        "name": "Indostar Capital Finance Pvt Ltd.",
+        "pc": 3.47,
+        "symbol": "INDOSTAR",
+        "diff": -0.92
+    }, {
+        "name": "TI Financial Holdings Ltd.",
+        "pc": 3.37,
+        "symbol": "TIINDIA",
+        "diff": -7.17
+    }, {
+        "name": "Blue Star Ltd.",
+        "pc": 3.13,
+        "symbol": "BLUESTARCO",
+        "diff": -4.89
+    }, {
+        "name": "Catholic Syrian Bank Ltd.",
+        "pc": 2.9,
+        "symbol": "CSBBANK",
+        "diff": -2.41
+    }, {
+        "name": "Carborundum Universal Ltd.",
+        "pc": 2.87,
+        "symbol": "CARBORUNIV",
+        "diff": -3.74
+    }, {
+        "name": "Triveni Turbine Ltd.",
+        "pc": 2.81,
+        "symbol": "TRITURBINE",
+        "diff": 3.31
+    }, {
+        "name": "Simran Wind Project Ltd.",
+        "pc": 2.69,
+        "symbol": "UNK:X",
+        "diff": 0
+    }, {
+        "name": "Nifty 50",
+        "pc": 2.68,
+        "symbol": "IND:NIFTY",
+        "diff": -3.71
+    }, {
+        "name": "Sheela Foam Ltd.",
+        "pc": 2.53,
+        "symbol": "SFL",
+        "diff": -1.02
+    }, {
+        "name": "HDFC Bank Ltd.",
+        "pc": 2.46,
+        "symbol": "SFL",
+        "diff": -1.82
+    }, {
+        "name": "Galaxy Surfactants Ltd.",
+        "pc": 2.32,
+        "symbol": "GALAXYSURF",
+        "diff": 0.68
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 2.24,
+        "symbol": "GALAXYSURF",
+        "diff": -2.3
+    }, {
+        "name": "NIIT Ltd.",
+        "pc": 2.22,
+        "symbol": "NIITTECH",
+        "diff": -10.4
+    }, {
+        "name": "Grindwell Norton Ltd.",
+        "pc": 2.2,
+        "symbol": "GRINDWELL",
+        "diff": -1.95
+    }, {
+        "name": "Emami Ltd.",
+        "pc": 2.11,
+        "symbol": "GRINDWELL",
+        "diff": -2.95
+    }, {
+        "name": "Timken India Ltd.",
+        "pc": 1.99,
+        "symbol": "TIMKEN",
+        "diff": -6.05
+    }, {
+        "name": "NHPC Ltd.",
+        "pc": 1.92,
+        "symbol": "NHPC",
+        "diff": -3.74
+    }, {
+        "name": "Engineers India Ltd.",
+        "pc": 1.83,
+        "symbol": "ENGINERSIN",
+        "diff": -4.44
+    }, {
+        "name": "Kirloskar Oil Engines Ltd.",
+        "pc": 1.74,
+        "symbol": "KIRLOSENG",
+        "diff": -5.21
+    }, {
+        "name": "Chalet Hotel Ltd.",
+        "pc": 1.69,
+        "symbol": "CHALET",
+        "diff": 1.42
+    }, {
+        "name": "Alembic Ltd.",
+        "pc": 1.65,
+        "symbol": "APLLTD",
+        "diff": -3.46
+    }, {
+        "name": "Can Fin Homes Ltd.",
+        "pc": 1.62,
+        "symbol": "CANFINHOME",
+        "diff": -0.99
+    }, {
+        "name": "Lemon Tree Hotels Ltd.",
+        "pc": 1.57,
+        "symbol": "LEMONTREE",
+        "diff": -2.27
+    }, {
+        "name": "Kewal Kiran Clothing Ltd.",
+        "pc": 1.5,
+        "symbol": "KKCL",
+        "diff": -1.59
+    }, {
+        "name": "Elgi Equipments Ltd.",
+        "pc": 1.44,
+        "symbol": "ELGIEQUIP",
+        "diff": -1.67
+    }, {
+        "name": "Tamil Nadu Newsprint & Papers Ltd.",
+        "pc": 1.42,
+        "symbol": "TNPL",
+        "diff": 0.99
+    }, {
+        "name": "Agro Tech Foods Ltd.",
+        "pc": 1.36,
+        "symbol": "ATFL",
+        "diff": -3.96
+    }, {
+        "name": "Fine Organic Industries Ltd.",
+        "pc": 0.98,
+        "symbol": "FINEORG",
+        "diff": -3.28
+    }, {
+        "name": "Bharat Heavy Electricals Ltd.",
+        "pc": 0.97,
+        "symbol": "BHEL",
+        "diff": -6.13
+    }, {
+        "name": "Great Eastern Shipping Company Ltd.",
+        "pc": 0.96,
+        "symbol": "GESHIP",
+        "diff": -5.36
+    }, {
+        "name": "Others",
+        "pc": 0.94,
+        "symbol": "UNK:X",
+        "diff": 0
+    }, {
+        "name": "Alstom T&D India Ltd.",
+        "pc": 0.9,
+        "symbol": "GET&D",
+        "diff": -3.83
+    }, {
+        "name": "Garware-Wall Ropes Ltd.",
+        "pc": 0.9,
+        "symbol": "GARFIBRES",
+        "diff": 0.13
+    }, {
+        "name": "Disa India Ltd.",
+        "pc": 0.75,
+        "symbol": "500068",
+        "diff": 0
+    }, {
+        "name": "Control Print Ltd.",
+        "pc": 0.74,
+        "symbol": "CONTROLPR",
+        "diff": -1.15
+    }, {
+        "name": "Ashiana Housing Ltd.",
+        "pc": 0.74,
+        "symbol": "ASHIANA",
+        "diff": -0.24
+    }, {
+        "name": "Rajratan Global Wire Ltd.",
+        "pc": 0.7,
+        "symbol": "RAJGLOWIR",
+        "diff": -10.25
+    }, {
+        "name": "Adi Finechem Ltd.",
+        "pc": 0.67,
+        "symbol": "FAIRCHEM",
+        "diff": -8.73
+    }, {
+        "name": "Thangamayil Jewellery Ltd.",
+        "pc": 0.57,
+        "symbol": "THANGAMAYL",
+        "diff": -1.45
+    }, {
+        "name": "Shreno Ltd.",
+        "pc": 0.42,
+        "symbol": "UNK:X",
+        "diff": 0
+    }, {
+        "name": "MM Forgings Ltd.",
+        "pc": 0.4,
+        "symbol": "MMFL",
+        "diff": -5.85
+    }, {
+        "name": "V2 Retail Ltd.",
+        "pc": 0.35,
+        "symbol": "V2RETAIL",
+        "diff": -6.05
+    }, {
+        "name": "Pilani Investment & Inds. Corpn. Ltd.",
+        "pc": 0.1,
+        "symbol": "PILANIINVS",
+        "diff": -5.67
+    }, {
+        "name": "UFO Moviez India Ltd.",
+        "pc": 0.04,
+        "symbol": "UFO",
+        "diff": 1.9
+    }],
+    "equity": 95.63607242,
+    "change": -2.8053094271716277
+}, {
+    "name": "Axis Small Cap Fund",
+    "holdings": [{
+        "name": "Mas Financial Services Ltd.",
+        "pc": 5.82,
+        "symbol": "MASFIN",
+        "diff": -5.1
+    }, {
+        "name": "City Union Bank Ltd.",
+        "pc": 5.61,
+        "symbol": "CUB",
+        "diff": -2.31
+    }, {
+        "name": "Galaxy Surfactants Ltd.",
+        "pc": 5.11,
+        "symbol": "CUB",
+        "diff": 0.68
+    }, {
+        "name": "Can Fin Homes Ltd.",
+        "pc": 5.01,
+        "symbol": "CUB",
+        "diff": -0.99
+    }, {
+        "name": "Aarti Industries Ltd.",
+        "pc": 4.86,
+        "symbol": "AARTIIND",
+        "diff": -1.42
+    }, {
+        "name": "JK Cement Ltd",
+        "pc": 4.34,
+        "symbol": "AARTIIND",
+        "diff": -1.62
+    }, {
+        "name": "Chalet Hotel Ltd.",
+        "pc": 4.03,
+        "symbol": "AARTIIND",
+        "diff": 1.42
+    }, {
+        "name": "Fine Organic Industries Ltd.",
+        "pc": 3.98,
+        "symbol": "AARTIIND",
+        "diff": -3.28
+    }, {
+        "name": "NIIT Technologies Ltd.",
+        "pc": 3.22,
+        "symbol": "NIITTECH",
+        "diff": -10.4
+    }, {
+        "name": "JK Lakshmi Cement Ltd.",
+        "pc": 3.21,
+        "symbol": "JKLAKSHMI",
+        "diff": -4.23
+    }, {
+        "name": "Brigade Enterprises Ltd.",
+        "pc": 3.11,
+        "symbol": "BRIGADE",
+        "diff": -0.75
+    }, {
+        "name": "Gulf Oil Lubricants India Ltd.",
+        "pc": 2.97,
+        "symbol": "GULFOILLUB",
+        "diff": 2.8
+    }, {
+        "name": "Heidelberg Cement India Ltd.",
+        "pc": 2.97,
+        "symbol": "HEIDELBERG",
+        "diff": -5.81
+    }, {
+        "name": "Ahluwalia Contracts (India) Ltd.",
+        "pc": 2.95,
+        "symbol": "AHLUCONT",
+        "diff": -4.29
+    }, {
+        "name": "VST Industries Ltd.",
+        "pc": 2.94,
+        "symbol": "VSTIND",
+        "diff": -2.82
+    }, {
+        "name": "JM Financial Ltd.",
+        "pc": 2.57,
+        "symbol": "JMFINANCIL",
+        "diff": -7.4
+    }, {
+        "name": "Narayana Hrudayalaya Ltd.",
+        "pc": 2.49,
+        "symbol": "JMFINANCIL",
+        "diff": -3.09
+    }, {
+        "name": "Blue Star Ltd.",
+        "pc": 1.98,
+        "symbol": "JMFINANCIL",
+        "diff": -4.89
+    }, {
+        "name": "SRF Ltd.",
+        "pc": 1.89,
+        "symbol": "JMFINANCIL",
+        "diff": -6.03
+    }, {
+        "name": "Multi Commodity Exchange India",
+        "pc": 1.76,
+        "symbol": "MCX",
+        "diff": -5.19
+    }, {
+        "name": "Neogen Chemicals Ltd.",
+        "pc": 1.75,
+        "symbol": "NEOGEN",
+        "diff": -6.48
+    }, {
+        "name": "Orient Refractories Limited",
+        "pc": 1.7,
+        "symbol": "ORIENTREF",
+        "diff": 1.47
+    }, {
+        "name": "Orient Electric Ltd.",
+        "pc": 1.63,
+        "symbol": "ORIENTELEC",
+        "diff": -0.64
+    }, {
+        "name": "Grindwell Norton Ltd.",
+        "pc": 1.5,
+        "symbol": "ORIENTELEC",
+        "diff": -1.95
+    }, {
+        "name": "Ipca Laboratories Ltd.",
+        "pc": 1.33,
+        "symbol": "ORIENTELEC",
+        "diff": 1.0
+    }, {
+        "name": "TCNS Clothing Co Ltd.",
+        "pc": 1.25,
+        "symbol": "TCNSBRANDS",
+        "diff": 4.12
+    }, {
+        "name": "Varroc Engineering Pvt Ltd.",
+        "pc": 1.07,
+        "symbol": "VARROC",
+        "diff": -0.5
+    }, {
+        "name": "Vesuvius India Ltd.",
+        "pc": 1.01,
+        "symbol": "VESUVIUS",
+        "diff": 2.54
+    }, {
+        "name": "Vinati Organics Ltd.",
+        "pc": 0.98,
+        "symbol": "VESUVIUS",
+        "diff": -5.7
+    }, {
+        "name": "KNR Constructions Ltd.",
+        "pc": 0.78,
+        "symbol": "KNRCON",
+        "diff": -2.12
+    }, {
+        "name": "Igarashi Motors India Ltd.",
+        "pc": 0.69,
+        "symbol": "IGARASHI",
+        "diff": -5.55
+    }, {
+        "name": "Minda Industries Ltd.",
+        "pc": 0.59,
+        "symbol": "MINDAIND",
+        "diff": 0.24
+    }, {
+        "name": "V-Guard Industries Ltd.",
+        "pc": 0.59,
+        "symbol": "VGUARD",
+        "diff": -1.12
+    }, {
+        "name": "RBL Bank Ltd.",
+        "pc": 0.44,
+        "symbol": "RBLBANK",
+        "diff": -6.04
+    }, {
+        "name": "MM Forgings Ltd.",
+        "pc": 0.27,
+        "symbol": "RBLBANK",
+        "diff": -5.85
+    }, {
+        "name": "Sumitomo Chemical India Pvt. Ltd.",
+        "pc": 0.26,
+        "symbol": "SUMICHEM",
+        "diff": -1.02
+    }, {
+        "name": "TTK Prestige Ltd.",
+        "pc": 0.26,
+        "symbol": "TTKPRESTIG",
+        "diff": -3.32
+    }, {
+        "name": "Indian Railway Catering & Tourism Corpn. Ltd.",
+        "pc": 0.22,
+        "symbol": "IRCTC",
+        "diff": -8.67
+    }, {
+        "name": "Rallis India Ltd.",
+        "pc": 0.15,
+        "symbol": "RALLIS",
+        "diff": -2.67
+    }, {
+        "name": "MindTree Ltd.",
+        "pc": 0.15,
+        "symbol": "RALLIS",
+        "diff": -4.23
+    }, {
+        "name": "PNC Infratech Ltd.",
+        "pc": 0.09,
+        "symbol": "PNCINFRA",
+        "diff": -2.83
+    }, {
+        "name": "Arti Surfactants Ltd.",
+        "pc": 0.01,
+        "symbol": "UNK:X",
+        "diff": 0
+    }],
+    "equity": 87.54,
+    "change": -2.021540095890411
+}, {
+    "name": "Canara Robeco Emerging Equities Fund",
+    "holdings": [{
+        "name": "HDFC Bank Ltd.",
+        "pc": 6.36,
+        "symbol": "UNK:X",
+        "diff": -1.82
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 5.86,
+        "symbol": "UNK:X",
+        "diff": -3.51
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 3.88,
+        "symbol": "UNK:X",
+        "diff": -4.16
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 3.88,
+        "symbol": "UNK:X",
+        "diff": -5.24
+    }, {
+        "name": "Infosys Ltd.",
+        "pc": 2.89,
+        "symbol": "UNK:X",
+        "diff": -5.93
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 2.5,
+        "symbol": "UNK:X",
+        "diff": -3.71
+    }, {
+        "name": "Bajaj Finance Ltd.",
+        "pc": 2.47,
+        "symbol": "BAJFINANCE",
+        "diff": -6.18
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 2.43,
+        "symbol": "HDFC",
+        "diff": -4.24
+    }, {
+        "name": "Atul Ltd.",
+        "pc": 2.36,
+        "symbol": "ATUL",
+        "diff": 3.49
+    }, {
+        "name": "Indian Railway Catering & Tourism Corpn. Ltd.",
+        "pc": 2.35,
+        "symbol": "ATUL",
+        "diff": -8.67
+    }, {
+        "name": "Jubilant FoodWorks Ltd.",
+        "pc": 2.21,
+        "symbol": "JUBLFOOD",
+        "diff": -5.18
+    }, {
+        "name": "Cholamandalam Investment & Finance Co. Ltd.",
+        "pc": 2.2,
+        "symbol": "CHOLAFIN",
+        "diff": -2.56
+    }, {
+        "name": "Whirlpool Of India Ltd.",
+        "pc": 2.08,
+        "symbol": "WHIRLPOOL",
+        "diff": -1.86
+    }, {
+        "name": "Ipca Laboratories Ltd.",
+        "pc": 2.06,
+        "symbol": "WHIRLPOOL",
+        "diff": 1.0
+    }, {
+        "name": "City Union Bank Ltd.",
+        "pc": 2.05,
+        "symbol": "WHIRLPOOL",
+        "diff": -2.31
+    }, {
+        "name": "Voltas Ltd.",
+        "pc": 2.03,
+        "symbol": "WHIRLPOOL",
+        "diff": -0.9
+    }, {
+        "name": "Gujarat Gas Ltd.",
+        "pc": 1.99,
+        "symbol": "GUJGASLTD",
+        "diff": -3.58
+    }, {
+        "name": "AU Financiers India Pvt. Ltd.",
+        "pc": 1.84,
+        "symbol": "AUBANK",
+        "diff": -1.42
+    }, {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "pc": 1.82,
+        "symbol": "AUBANK",
+        "diff": -3.97
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 1.79,
+        "symbol": "AUBANK",
+        "diff": -6.56
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 1.78,
+        "symbol": "AUBANK",
+        "diff": -2.3
+    }, {
+        "name": "Honeywell Automation India Ltd.",
+        "pc": 1.75,
+        "symbol": "HONAUT",
+        "diff": -0.73
+    }, {
+        "name": "Larsen & Toubro Infotech Ltd.",
+        "pc": 1.74,
+        "symbol": "LTI",
+        "diff": -3.83
+    }, {
+        "name": "Titan Company Ltd.",
+        "pc": 1.56,
+        "symbol": "LTI",
+        "diff": -1.83
+    }, {
+        "name": "Minda Industries Ltd.",
+        "pc": 1.51,
+        "symbol": "LTI",
+        "diff": 0.24
+    }, {
+        "name": "Britannia Industries Ltd.",
+        "pc": 1.5,
+        "symbol": "BRITANNIA",
+        "diff": -1.85
+    }, {
+        "name": "Indian Hotels Co. Ltd.",
+        "pc": 1.49,
+        "symbol": "INDHOTEL",
+        "diff": -4.22
+    }, {
+        "name": "AIA Engineering Ltd.",
+        "pc": 1.48,
+        "symbol": "AIAENG",
+        "diff": -2.64
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 1.48,
+        "symbol": "AIAENG",
+        "diff": -1.88
+    }, {
+        "name": "ICICI Prudential Life Insurance Company Ltd.",
+        "pc": 1.46,
+        "symbol": "ICICIPRULI",
+        "diff": -2.05
+    }, {
+        "name": "Century Textiles & Inds. Ltd.",
+        "pc": 1.44,
+        "symbol": "CENTURYTEX",
+        "diff": -6.64
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 1.4,
+        "symbol": "CENTURYTEX",
+        "diff": -5.0
+    }, {
+        "name": "ITC Ltd.",
+        "pc": 1.38,
+        "symbol": "ITC",
+        "diff": 0.0
+    }, {
+        "name": "Bharti Airtel Ltd.",
+        "pc": 1.33,
+        "symbol": "BHARTIARTL",
+        "diff": -1.53
+    }, {
+        "name": "The Ramco Cements Ltd.",
+        "pc": 1.21,
+        "symbol": "RAMCOCEM",
+        "diff": -1.33
+    }, {
+        "name": "Abbott India Ltd.",
+        "pc": 1.18,
+        "symbol": "ABBOTINDIA",
+        "diff": -2.88
+    }, {
+        "name": "Indraprastha Gas Ltd.",
+        "pc": 1.09,
+        "symbol": "IGL",
+        "diff": -2.97
+    }, {
+        "name": "Alkem Laboratories Ltd.",
+        "pc": 1.03,
+        "symbol": "ALKEM",
+        "diff": -0.61
+    }, {
+        "name": "Jubilant Life Sciences Ltd",
+        "pc": 1.03,
+        "symbol": "JUBILANT",
+        "diff": -3.13
+    }, {
+        "name": "Odisha Cement Ltd.",
+        "pc": 1.03,
+        "symbol": "DALBHARAT",
+        "diff": -2.12
+    }, {
+        "name": "Dr. Lal Pathlabs Ltd.",
+        "pc": 1.02,
+        "symbol": "DALBHARAT",
+        "diff": -0.86
+    }, {
+        "name": "ICICI Lombard General Insurance Comapny Limited",
+        "pc": 1.01,
+        "symbol": "ICICIGI",
+        "diff": -1.13
+    }, {
+        "name": "Bharat Forge Ltd.",
+        "pc": 0.98,
+        "symbol": "BHARATFORG",
+        "diff": -5.68
+    }, {
+        "name": "Mahindra & Mahindra Financial Services Ltd.",
+        "pc": 0.96,
+        "symbol": "M&MFIN",
+        "diff": -2.67
+    }, {
+        "name": "CESC Ltd.",
+        "pc": 0.96,
+        "symbol": "CESC",
+        "diff": -2.59
+    }, {
+        "name": "Mahindra & Mahindra Ltd.",
+        "pc": 0.91,
+        "symbol": "M&M",
+        "diff": -7.39
+    }, {
+        "name": "Avenue Supermarts Ltd.",
+        "pc": 0.9,
+        "symbol": "DMART",
+        "diff": 0.18
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 0.9,
+        "symbol": "DMART",
+        "diff": -4.52
+    }, {
+        "name": "Navin Fluorine International Ltd.",
+        "pc": 0.89,
+        "symbol": "NAVINFLUOR",
+        "diff": -3.33
+    }, {
+        "name": "Syngene International Ltd.",
+        "pc": 0.87,
+        "symbol": "NAVINFLUOR",
+        "diff": -1.22
+    }, {
+        "name": "Tech Mahindra Ltd.",
+        "pc": 0.72,
+        "symbol": "TECHM",
+        "diff": -8.0
+    }, {
+        "name": "Solar Industries India Ltd.",
+        "pc": 0.68,
+        "symbol": "SOLARINDS",
+        "diff": -1.86
+    }, {
+        "name": "Sundram Fasteners Ltd.",
+        "pc": 0.62,
+        "symbol": "SUNDRMFAST",
+        "diff": -2.04
+    }, {
+        "name": "TCI Express Ltd.",
+        "pc": 0.6,
+        "symbol": "TCIEXP",
+        "diff": 0.57
+    }, {
+        "name": "United Spirits Ltd.",
+        "pc": 0.55,
+        "symbol": "MCDOWELL-N",
+        "diff": -0.01
+    }, {
+        "name": "ISGEC Heavy Engineering Ltd.",
+        "pc": 0.49,
+        "symbol": "533033",
+        "diff": 0
+    }, {
+        "name": "Transport Corporation Of India Ltd.",
+        "pc": 0.47,
+        "symbol": "TCI",
+        "diff": -6.72
+    }, {
+        "name": "Multi Commodity Exchange India",
+        "pc": 0.44,
+        "symbol": "TCI",
+        "diff": -5.19
+    }],
+    "equity": 96.89,
+    "change": -2.87762316438356
+}, {
+    "name": "Motilal Oswal Midcap 30 Fund",
+    "holdings": [{
+        "name": "AU Financiers India Pvt. Ltd.",
+        "pc": 8.57,
+        "symbol": "TCI",
+        "diff": -1.42
+    }, {
+        "name": "City Union Bank Ltd.",
+        "pc": 8.5,
+        "symbol": "TCI",
+        "diff": -2.31
+    }, {
+        "name": "Jubilant FoodWorks Ltd.",
+        "pc": 7.61,
+        "symbol": "TCI",
+        "diff": -5.18
+    }, {
+        "name": "Crompton Greaves Consumer Electricals Ltd.",
+        "pc": 7.41,
+        "symbol": "CROMPTON",
+        "diff": -1.54
+    }, {
+        "name": "Voltas Ltd.",
+        "pc": 6.99,
+        "symbol": "CROMPTON",
+        "diff": -0.9
+    }, {
+        "name": "Page Industries Ltd.",
+        "pc": 6.89,
+        "symbol": "CROMPTON",
+        "diff": 0.01
+    }, {
+        "name": "Bata India Ltd.",
+        "pc": 5.44,
+        "symbol": "BATAINDIA",
+        "diff": -1.34
+    }, {
+        "name": "Cholamandalam Investment & Finance Co. Ltd.",
+        "pc": 4.95,
+        "symbol": "BATAINDIA",
+        "diff": -2.56
+    }, {
+        "name": "TTK Prestige Ltd.",
+        "pc": 2.77,
+        "symbol": "BATAINDIA",
+        "diff": -3.32
+    }, {
+        "name": "Astral Poly Technik Ltd.",
+        "pc": 2.46,
+        "symbol": "ASTRAL",
+        "diff": -2.05
+    }, {
+        "name": "Bajaj Finance Ltd.",
+        "pc": 2.42,
+        "symbol": "ASTRAL",
+        "diff": -6.18
+    }, {
+        "name": "Titan Company Ltd.",
+        "pc": 2.39,
+        "symbol": "ASTRAL",
+        "diff": -1.83
+    }, {
+        "name": "Hindustan Unilever Ltd.",
+        "pc": 2.36,
+        "symbol": "ASTRAL",
+        "diff": -3.56
+    }, {
+        "name": "Asian Paints Ltd.",
+        "pc": 2.35,
+        "symbol": "ASIANPAINT",
+        "diff": -2.49
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 2.34,
+        "symbol": "ASIANPAINT",
+        "diff": -3.71
+    }, {
+        "name": "HDFC Standard Life Insurance Company Ltd.",
+        "pc": 2.34,
+        "symbol": "ASIANPAINT",
+        "diff": -3.99
+    }, {
+        "name": "HDFC Bank Ltd.",
+        "pc": 2.28,
+        "symbol": "ASIANPAINT",
+        "diff": -1.82
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 2.25,
+        "symbol": "ASIANPAINT",
+        "diff": -4.24
+    }, {
+        "name": "Eicher Motors Ltd.",
+        "pc": 2.25,
+        "symbol": "EICHERMOT",
+        "diff": -2.64
+    }, {
+        "name": "Honeywell Automation India Ltd.",
+        "pc": 2.11,
+        "symbol": "EICHERMOT",
+        "diff": -0.73
+    }, {
+        "name": "Sundram Fasteners Ltd.",
+        "pc": 2.07,
+        "symbol": "EICHERMOT",
+        "diff": -2.04
+    }, {
+        "name": "3M India Ltd.",
+        "pc": 1.91,
+        "symbol": "3MINDIA",
+        "diff": 0.05
+    }, {
+        "name": "Wabco India Ltd.",
+        "pc": 1.71,
+        "symbol": "WABCOINDIA",
+        "diff": -0.1
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 1.62,
+        "symbol": "WABCOINDIA",
+        "diff": -6.56
+    }, {
+        "name": "The Ramco Cements Ltd.",
+        "pc": 1.57,
+        "symbol": "WABCOINDIA",
+        "diff": -1.33
+    }],
+    "equity": 93.5766195,
+    "change": -2.005615963078299
+}, {
+    "name": "Invesco India Mid Cap Fund",
+    "holdings": [{
+        "name": "Coromandel International Ltd.",
+        "pc": 4.68,
+        "symbol": "COROMANDEL",
+        "diff": 0.15
+    }, {
+        "name": "Apollo Hospitals Enterprise Ltd.",
+        "pc": 3.96,
+        "symbol": "APOLLOHOSP",
+        "diff": -3.32
+    }, {
+        "name": "Whirlpool Of India Ltd.",
+        "pc": 3.92,
+        "symbol": "APOLLOHOSP",
+        "diff": -1.86
+    }, {
+        "name": "Gujarat State Petronet Ltd.",
+        "pc": 3.78,
+        "symbol": "APOLLOHOSP",
+        "diff": -3.39
+    }, {
+        "name": "Cholamandalam Investment & Finance Co. Ltd.",
+        "pc": 3.53,
+        "symbol": "APOLLOHOSP",
+        "diff": -2.56
+    }, {
+        "name": "Indraprastha Gas Ltd.",
+        "pc": 3.43,
+        "symbol": "APOLLOHOSP",
+        "diff": -2.97
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 3.27,
+        "symbol": "APOLLOHOSP",
+        "diff": -3.51
+    }, {
+        "name": "Indian Railway Catering & Tourism Corpn. Ltd.",
+        "pc": 3.2,
+        "symbol": "APOLLOHOSP",
+        "diff": -8.67
+    }, {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "pc": 3.11,
+        "symbol": "APOLLOHOSP",
+        "diff": -3.97
+    }, {
+        "name": "Sanofi India Ltd.",
+        "pc": 2.54,
+        "symbol": "SANOFI",
+        "diff": -0.29
+    }, {
+        "name": "City Union Bank Ltd.",
+        "pc": 2.53,
+        "symbol": "SANOFI",
+        "diff": -2.31
+    }, {
+        "name": "AIA Engineering Ltd.",
+        "pc": 2.43,
+        "symbol": "SANOFI",
+        "diff": -2.64
+    }, {
+        "name": "Bata India Ltd.",
+        "pc": 2.42,
+        "symbol": "SANOFI",
+        "diff": -1.34
+    }, {
+        "name": "The Ramco Cements Ltd.",
+        "pc": 2.36,
+        "symbol": "SANOFI",
+        "diff": -1.33
+    }, {
+        "name": "Vinati Organics Ltd.",
+        "pc": 2.34,
+        "symbol": "SANOFI",
+        "diff": -5.7
+    }, {
+        "name": "Ajanta Pharma Ltd.",
+        "pc": 2.31,
+        "symbol": "SANOFI",
+        "diff": -1.04
+    }, {
+        "name": "Hexaware Technologies Ltd.",
+        "pc": 2.21,
+        "symbol": "HEXAWARE",
+        "diff": -1.25
+    }, {
+        "name": "Exide Industries Ltd.",
+        "pc": 2.17,
+        "symbol": "EXIDEIND",
+        "diff": -3.97
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 2.11,
+        "symbol": "EXIDEIND",
+        "diff": -6.56
+    }, {
+        "name": "Muthoot Finance Ltd.",
+        "pc": 2.1,
+        "symbol": "EXIDEIND",
+        "diff": -5.43
+    }, {
+        "name": "Mphasis Ltd.",
+        "pc": 2.02,
+        "symbol": "MPHASIS",
+        "diff": -2.8
+    }, {
+        "name": "Mahanagar Gas Ltd.",
+        "pc": 2.0,
+        "symbol": "MGL",
+        "diff": -5.34
+    }, {
+        "name": "TVS Motor Co. Ltd.",
+        "pc": 1.99,
+        "symbol": "MGL",
+        "diff": -0.89
+    }, {
+        "name": "FAG Bearings India Ltd.",
+        "pc": 1.89,
+        "symbol": "SCHAEFFLER",
+        "diff": -3.34
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 1.8,
+        "symbol": "SCHAEFFLER",
+        "diff": -4.52
+    }, {
+        "name": "PNC Infratech Ltd.",
+        "pc": 1.75,
+        "symbol": "SCHAEFFLER",
+        "diff": -2.83
+    }, {
+        "name": "Abbott India Ltd.",
+        "pc": 1.71,
+        "symbol": "SCHAEFFLER",
+        "diff": -2.88
+    }, {
+        "name": "Torrent Power Ltd.",
+        "pc": 1.69,
+        "symbol": "TORNTPOWER",
+        "diff": -1.62
+    }, {
+        "name": "Mishra Dhatu Nigam Ltd.",
+        "pc": 1.68,
+        "symbol": "MIDHANI",
+        "diff": -1.82
+    }, {
+        "name": "KEC International Ltd.",
+        "pc": 1.67,
+        "symbol": "KEC",
+        "diff": -2.3
+    }, {
+        "name": "Mahindra & Mahindra Financial Services Ltd.",
+        "pc": 1.64,
+        "symbol": "KEC",
+        "diff": -2.67
+    }, {
+        "name": "Phoenix Mills Ltd.",
+        "pc": 1.63,
+        "symbol": "PHOENIXLTD",
+        "diff": -3.16
+    }, {
+        "name": "TI Financial Holdings Ltd.",
+        "pc": 1.54,
+        "symbol": "PHOENIXLTD",
+        "diff": -7.17
+    }, {
+        "name": "Indiamart Intermesh Ltd.",
+        "pc": 1.5,
+        "symbol": "INDIAMART",
+        "diff": -2.1
+    }, {
+        "name": "DCB Bank Ltd.",
+        "pc": 1.43,
+        "symbol": "DCBBANK",
+        "diff": -0.68
+    }, {
+        "name": "Sundram Fasteners Ltd.",
+        "pc": 1.42,
+        "symbol": "DCBBANK",
+        "diff": -2.04
+    }, {
+        "name": "Reliance Nippon Life Asset Management Limited.",
+        "pc": 1.42,
+        "symbol": "NAM-INDIA",
+        "diff": -6.53
+    }, {
+        "name": "Minda Industries Ltd.",
+        "pc": 1.34,
+        "symbol": "NAM-INDIA",
+        "diff": 0.24
+    }, {
+        "name": "Motilal Oswal Financial Services Ltd",
+        "pc": 1.29,
+        "symbol": "MOTILALOFS",
+        "diff": -4.52
+    }, {
+        "name": "Gulf Oil Lubricants India Ltd.",
+        "pc": 1.28,
+        "symbol": "MOTILALOFS",
+        "diff": 2.8
+    }, {
+        "name": "ICICI Lombard General Insurance Comapny Limited",
+        "pc": 1.27,
+        "symbol": "MOTILALOFS",
+        "diff": -1.13
+    }, {
+        "name": "L&T Technology Services Ltd.",
+        "pc": 1.26,
+        "symbol": "LTTS",
+        "diff": -3.22
+    }, {
+        "name": "Mahindra Logistics Ltd.",
+        "pc": 1.04,
+        "symbol": "MAHLOG",
+        "diff": -3.83
+    }, {
+        "name": "Heritage Foods Ltd.",
+        "pc": 0.76,
+        "symbol": "HERITGFOOD",
+        "diff": -4.42
+    }, {
+        "name": "Music Broadcast Pvt Ltd.",
+        "pc": 0.37,
+        "symbol": "RADIOCITY",
+        "diff": -3.18
+    }],
+    "equity": 95.79,
+    "change": -2.7187812739726027
+}, {
+    "name": "Motilal Oswal Multicap 35 Fund",
+    "holdings": [{
+        "name": "HDFC Bank Ltd.",
+        "pc": 10.33,
+        "symbol": "RADIOCITY",
+        "diff": -1.82
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 6.98,
+        "symbol": "RADIOCITY",
+        "diff": -5.24
+    }, {
+        "name": "HDFC Standard Life Insurance Company Ltd.",
+        "pc": 6.88,
+        "symbol": "RADIOCITY",
+        "diff": -3.99
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 6.1,
+        "symbol": "RADIOCITY",
+        "diff": -4.24
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 5.81,
+        "symbol": "RADIOCITY",
+        "diff": -1.88
+    }, {
+        "name": "Infosys Ltd.",
+        "pc": 5.58,
+        "symbol": "RADIOCITY",
+        "diff": -5.93
+    }, {
+        "name": "Maruti Suzuki India Ltd.",
+        "pc": 5.29,
+        "symbol": "RADIOCITY",
+        "diff": -0.11
+    }, {
+        "name": "AU Financiers India Pvt. Ltd.",
+        "pc": 5.09,
+        "symbol": "RADIOCITY",
+        "diff": -1.42
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 5.09,
+        "symbol": "RADIOCITY",
+        "diff": -5.0
+    }, {
+        "name": "Bajaj Finance Ltd.",
+        "pc": 5.01,
+        "symbol": "RADIOCITY",
+        "diff": -6.18
+    }, {
+        "name": "Eicher Motors Ltd.",
+        "pc": 4.58,
+        "symbol": "RADIOCITY",
+        "diff": -2.64
+    }, {
+        "name": "United Spirits Ltd.",
+        "pc": 3.95,
+        "symbol": "RADIOCITY",
+        "diff": -0.01
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 3.89,
+        "symbol": "RADIOCITY",
+        "diff": -3.71
+    }, {
+        "name": "Asian Paints Ltd.",
+        "pc": 3.3,
+        "symbol": "RADIOCITY",
+        "diff": -2.49
+    }, {
+        "name": "ICICI Lombard General Insurance Comapny Limited",
+        "pc": 3.28,
+        "symbol": "RADIOCITY",
+        "diff": -1.13
+    }, {
+        "name": "Petronet LNG Ltd.",
+        "pc": 3.08,
+        "symbol": "PETRONET",
+        "diff": -5.77
+    }, {
+        "name": "Titan Company Ltd.",
+        "pc": 2.66,
+        "symbol": "PETRONET",
+        "diff": -1.83
+    }, {
+        "name": "Hindustan Petroleum Corpn. Ltd.",
+        "pc": 2.55,
+        "symbol": "PETRONET",
+        "diff": -3.35
+    }, {
+        "name": "Jubilant FoodWorks Ltd.",
+        "pc": 2.32,
+        "symbol": "PETRONET",
+        "diff": -5.18
+    }, {
+        "name": "Britannia Industries Ltd.",
+        "pc": 2.21,
+        "symbol": "PETRONET",
+        "diff": -1.85
+    }, {
+        "name": "Hindustan Unilever Ltd.",
+        "pc": 2.02,
+        "symbol": "PETRONET",
+        "diff": -3.56
+    }, {
+        "name": "Vaibhav Global Ltd.",
+        "pc": 1.96,
+        "symbol": "VAIBHAVGBL",
+        "diff": -3.68
+    }, {
+        "name": "Alkem Laboratories Ltd.",
+        "pc": 1.19,
+        "symbol": "VAIBHAVGBL",
+        "diff": -0.61
+    }],
+    "equity": 99.15158988,
+    "change": -3.162066085114852
+}, {
+    "name": "Axis Midcap Fund",
+    "holdings": [{
+        "name": "Avenue Supermarts Ltd.",
+        "pc": 5.01,
+        "symbol": "VAIBHAVGBL",
+        "diff": 0.18
+    }, {
+        "name": "Bata India Ltd.",
+        "pc": 4.41,
+        "symbol": "VAIBHAVGBL",
+        "diff": -1.34
+    }, {
+        "name": "City Union Bank Ltd.",
+        "pc": 4.37,
+        "symbol": "VAIBHAVGBL",
+        "diff": -2.31
+    }, {
+        "name": "Astral Poly Technik Ltd.",
+        "pc": 3.92,
+        "symbol": "VAIBHAVGBL",
+        "diff": -2.05
+    }, {
+        "name": "Info Edge (India) Ltd.",
+        "pc": 3.74,
+        "symbol": "VAIBHAVGBL",
+        "diff": 1.02
+    }, {
+        "name": "Indraprastha Gas Ltd.",
+        "pc": 3.72,
+        "symbol": "VAIBHAVGBL",
+        "diff": -2.97
+    }, {
+        "name": "Voltas Ltd.",
+        "pc": 3.62,
+        "symbol": "VAIBHAVGBL",
+        "diff": -0.9
+    }, {
+        "name": "Bajaj Finance Ltd.",
+        "pc": 3.46,
+        "symbol": "VAIBHAVGBL",
+        "diff": -6.18
+    }, {
+        "name": "PI Industries Ltd.",
+        "pc": 3.36,
+        "symbol": "PIIND",
+        "diff": 0.35
+    }, {
+        "name": "Ipca Laboratories Ltd.",
+        "pc": 3.0,
+        "symbol": "PIIND",
+        "diff": 1.0
+    }, {
+        "name": "Cholamandalam Investment & Finance Co. Ltd.",
+        "pc": 2.9,
+        "symbol": "PIIND",
+        "diff": -2.56
+    }, {
+        "name": "Trent Ltd.",
+        "pc": 2.28,
+        "symbol": "TRENT",
+        "diff": 0.42
+    }, {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "pc": 2.23,
+        "symbol": "TRENT",
+        "diff": -3.97
+    }, {
+        "name": "HDFC Bank Ltd.",
+        "pc": 2.09,
+        "symbol": "TRENT",
+        "diff": -1.82
+    }, {
+        "name": "Mahindra & Mahindra Financial Services Ltd.",
+        "pc": 2.06,
+        "symbol": "TRENT",
+        "diff": -2.67
+    }, {
+        "name": "Mphasis Ltd.",
+        "pc": 2.05,
+        "symbol": "TRENT",
+        "diff": -2.8
+    }, {
+        "name": "Tata Global Beverages Ltd.",
+        "pc": 2.04,
+        "symbol": "TRENT",
+        "diff": -4.72
+    }, {
+        "name": "Indian Hotels Co. Ltd.",
+        "pc": 1.98,
+        "symbol": "TRENT",
+        "diff": -4.22
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 1.96,
+        "symbol": "TRENT",
+        "diff": -3.51
+    }, {
+        "name": "Whirlpool Of India Ltd.",
+        "pc": 1.81,
+        "symbol": "TRENT",
+        "diff": -1.86
+    }, {
+        "name": "Supreme Industries Ltd.",
+        "pc": 1.67,
+        "symbol": "SUPREMEIND",
+        "diff": -4.35
+    }, {
+        "name": "Sundaram Finance Ltd.",
+        "pc": 1.44,
+        "symbol": "SUNDARMHLD",
+        "diff": -1.97
+    }, {
+        "name": "Sanofi India Ltd.",
+        "pc": 1.4,
+        "symbol": "SUNDARMHLD",
+        "diff": -0.29
+    }, {
+        "name": "Aarti Industries Ltd.",
+        "pc": 1.25,
+        "symbol": "SUNDARMHLD",
+        "diff": -1.42
+    }, {
+        "name": "Bandhan Bank Ltd.",
+        "pc": 1.24,
+        "symbol": "BANDHANBNK",
+        "diff": -3.84
+    }, {
+        "name": "Endurance Technologies Ltd.",
+        "pc": 1.23,
+        "symbol": "ENDURANCE",
+        "diff": -0.82
+    }, {
+        "name": "The Ramco Cements Ltd.",
+        "pc": 1.23,
+        "symbol": "ENDURANCE",
+        "diff": -1.33
+    }, {
+        "name": "MindTree Ltd.",
+        "pc": 1.22,
+        "symbol": "ENDURANCE",
+        "diff": -4.23
+    }, {
+        "name": "Page Industries Ltd.",
+        "pc": 1.17,
+        "symbol": "ENDURANCE",
+        "diff": 0.01
+    }, {
+        "name": "V-Guard Industries Ltd.",
+        "pc": 1.15,
+        "symbol": "ENDURANCE",
+        "diff": -1.12
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 1.05,
+        "symbol": "ENDURANCE",
+        "diff": -6.56
+    }, {
+        "name": "Asian Paints Ltd.",
+        "pc": 1.05,
+        "symbol": "ENDURANCE",
+        "diff": -2.49
+    }, {
+        "name": "Max Financial Services Ltd.",
+        "pc": 0.99,
+        "symbol": "ENDURANCE",
+        "diff": -3.41
+    }, {
+        "name": "AIA Engineering Ltd.",
+        "pc": 0.98,
+        "symbol": "ENDURANCE",
+        "diff": -2.64
+    }, {
+        "name": "ACC Ltd.",
+        "pc": 0.97,
+        "symbol": "ACC",
+        "diff": -4.52
+    }, {
+        "name": "SKF India Ltd.",
+        "pc": 0.95,
+        "symbol": "ACC",
+        "diff": -1.04
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 0.89,
+        "symbol": "ACC",
+        "diff": -2.3
+    }, {
+        "name": "TVS Motor Co. Ltd.",
+        "pc": 0.85,
+        "symbol": "ACC",
+        "diff": -0.89
+    }, {
+        "name": "JK Cement Ltd",
+        "pc": 0.81,
+        "symbol": "ACC",
+        "diff": -1.62
+    }, {
+        "name": "TTK Prestige Ltd.",
+        "pc": 0.72,
+        "symbol": "ACC",
+        "diff": -3.32
+    }, {
+        "name": "Mahanagar Gas Ltd.",
+        "pc": 0.66,
+        "symbol": "ACC",
+        "diff": -5.34
+    }, {
+        "name": "Alembic Pharmaceuticals Ltd.",
+        "pc": 0.62,
+        "symbol": "APLLTD",
+        "diff": -3.46
+    }, {
+        "name": "Wabco India Ltd.",
+        "pc": 0.57,
+        "symbol": "APLLTD",
+        "diff": -0.1
+    }, {
+        "name": "RBL Bank Ltd.",
+        "pc": 0.56,
+        "symbol": "APLLTD",
+        "diff": -6.04
+    }, {
+        "name": "ICICI Securities Ltd.",
+        "pc": 0.56,
+        "symbol": "ISEC",
+        "diff": -3.14
+    }, {
+        "name": "Torrent Pharmaceuticals Ltd.",
+        "pc": 0.4,
+        "symbol": "ISEC",
+        "diff": -0.86
+    }, {
+        "name": "Cummins India Ltd.",
+        "pc": 0.38,
+        "symbol": "CUMMINSIND",
+        "diff": -1.38
+    }, {
+        "name": "AU Financiers India Pvt. Ltd.",
+        "pc": 0.25,
+        "symbol": "CUMMINSIND",
+        "diff": -1.42
+    }, {
+        "name": "Sumitomo Chemical India Pvt. Ltd.",
+        "pc": 0.11,
+        "symbol": "CUMMINSIND",
+        "diff": -1.02
+    }, {
+        "name": "Arti Surfactants Ltd.",
+        "pc": 0.01,
+        "symbol": "UNK:X",
+        "diff": 0
+    }],
+    "equity": 86.39,
+    "change": -1.4900183013698625
+}, {
+    "name": "Kotak Emerging Equity Fund",
+    "holdings": [{
+        "name": "Supreme Industries Ltd.",
+        "pc": 4.15,
+        "symbol": "UNK:X",
+        "diff": -4.35
+    }, {
+        "name": "Coromandel International Ltd.",
+        "pc": 4.04,
+        "symbol": "UNK:X",
+        "diff": 0.15
+    }, {
+        "name": "PI Industries Ltd.",
+        "pc": 3.38,
+        "symbol": "UNK:X",
+        "diff": 0.35
+    }, {
+        "name": "The Ramco Cements Ltd.",
+        "pc": 3.34,
+        "symbol": "UNK:X",
+        "diff": -1.33
+    }, {
+        "name": "AU Financiers India Pvt. Ltd.",
+        "pc": 3.26,
+        "symbol": "UNK:X",
+        "diff": -1.42
+    }, {
+        "name": "FAG Bearings India Ltd.",
+        "pc": 2.89,
+        "symbol": "UNK:X",
+        "diff": -3.34
+    }, {
+        "name": "Thermax Ltd.",
+        "pc": 2.76,
+        "symbol": "THERMAX",
+        "diff": -0.93
+    }, {
+        "name": "Atul Ltd.",
+        "pc": 2.43,
+        "symbol": "THERMAX",
+        "diff": 3.49
+    }, {
+        "name": "Tata Global Beverages Ltd.",
+        "pc": 2.37,
+        "symbol": "THERMAX",
+        "diff": -4.72
+    }, {
+        "name": "Sheela Foam Ltd.",
+        "pc": 2.32,
+        "symbol": "THERMAX",
+        "diff": -1.02
+    }, {
+        "name": "Solar Industries India Ltd.",
+        "pc": 2.2,
+        "symbol": "THERMAX",
+        "diff": -1.86
+    }, {
+        "name": "Kajaria Ceramics Ltd.",
+        "pc": 2.11,
+        "symbol": "KAJARIACER",
+        "diff": -1.25
+    }, {
+        "name": "Mahindra & Mahindra Financial Services Ltd.",
+        "pc": 2.04,
+        "symbol": "KAJARIACER",
+        "diff": -2.67
+    }, {
+        "name": "SRF Ltd.",
+        "pc": 1.95,
+        "symbol": "KAJARIACER",
+        "diff": -6.03
+    }, {
+        "name": "Shree Cement Ltd.",
+        "pc": 1.91,
+        "symbol": "SHREECEM",
+        "diff": -4.79
+    }, {
+        "name": "Cadila Healthcare Ltd.",
+        "pc": 1.74,
+        "symbol": "CADILAHC",
+        "diff": -0.54
+    }, {
+        "name": "Torrent Pharmaceuticals Ltd.",
+        "pc": 1.67,
+        "symbol": "CADILAHC",
+        "diff": -0.86
+    }, {
+        "name": "APL Apollo Tubes Ltd.",
+        "pc": 1.66,
+        "symbol": "APLAPOLLO",
+        "diff": -1.85
+    }, {
+        "name": "Indraprastha Gas Ltd.",
+        "pc": 1.63,
+        "symbol": "APLAPOLLO",
+        "diff": -2.97
+    }, {
+        "name": "Page Industries Ltd.",
+        "pc": 1.61,
+        "symbol": "APLAPOLLO",
+        "diff": 0.01
+    }, {
+        "name": "Exide Industries Ltd.",
+        "pc": 1.53,
+        "symbol": "APLAPOLLO",
+        "diff": -3.97
+    }, {
+        "name": "RBL Bank Ltd.",
+        "pc": 1.44,
+        "symbol": "APLAPOLLO",
+        "diff": -6.04
+    }, {
+        "name": "Voltas Ltd.",
+        "pc": 1.44,
+        "symbol": "APLAPOLLO",
+        "diff": -0.9
+    }, {
+        "name": "Federal Bank Ltd.",
+        "pc": 1.44,
+        "symbol": "FEDERALBNK",
+        "diff": -3.32
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 1.41,
+        "symbol": "FEDERALBNK",
+        "diff": -5.24
+    }, {
+        "name": "Cummins India Ltd.",
+        "pc": 1.37,
+        "symbol": "FEDERALBNK",
+        "diff": -1.38
+    }, {
+        "name": "Ratnamani Metals & Tubes Ltd.",
+        "pc": 1.36,
+        "symbol": "RATNAMANI",
+        "diff": 2.26
+    }, {
+        "name": "Apollo Hospitals Enterprise Ltd.",
+        "pc": 1.36,
+        "symbol": "RATNAMANI",
+        "diff": -3.32
+    }, {
+        "name": "Jindal Steel & Power Ltd.",
+        "pc": 1.28,
+        "symbol": "JINDALSTEL",
+        "diff": -8.58
+    }, {
+        "name": "Shriram City Union Finance Ltd.",
+        "pc": 1.27,
+        "symbol": "SHRIRAMCIT",
+        "diff": 2.06
+    }, {
+        "name": "Finolex Cables Ltd.",
+        "pc": 1.23,
+        "symbol": "SHRIRAMCIT",
+        "diff": -4.19
+    }, {
+        "name": "Oberoi Realty Ltd.",
+        "pc": 1.22,
+        "symbol": "OBEROIRLTY",
+        "diff": -0.92
+    }, {
+        "name": "Max Financial Services Ltd.",
+        "pc": 1.21,
+        "symbol": "OBEROIRLTY",
+        "diff": -3.41
+    }, {
+        "name": "Indusind Bank Ltd.",
+        "pc": 1.21,
+        "symbol": "OBEROIRLTY",
+        "diff": -1.03
+    }, {
+        "name": "Godrej Agrovet Ltd.",
+        "pc": 1.21,
+        "symbol": "GODREJAGRO",
+        "diff": -2.9
+    }, {
+        "name": "Motherson Sumi Systems Ltd.",
+        "pc": 1.17,
+        "symbol": "MOTHERSUMI",
+        "diff": -5.0
+    }, {
+        "name": "MRF Ltd.",
+        "pc": 1.17,
+        "symbol": "MRF",
+        "diff": -1.73
+    }, {
+        "name": "Lux Industries Ltd.",
+        "pc": 1.17,
+        "symbol": "LUXIND",
+        "diff": -6.16
+    }, {
+        "name": "State Bank of India",
+        "pc": 1.14,
+        "symbol": "LUXIND",
+        "diff": -5.89
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 1.08,
+        "symbol": "LUXIND",
+        "diff": -4.52
+    }, {
+        "name": "City Union Bank Ltd.",
+        "pc": 1.07,
+        "symbol": "LUXIND",
+        "diff": -2.31
+    }, {
+        "name": "Sundaram Finance Ltd.",
+        "pc": 1.04,
+        "symbol": "LUXIND",
+        "diff": -1.97
+    }, {
+        "name": "Hindustan Petroleum Corpn. Ltd.",
+        "pc": 1.04,
+        "symbol": "LUXIND",
+        "diff": -3.35
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 1.03,
+        "symbol": "LUXIND",
+        "diff": -1.88
+    }, {
+        "name": "Hawkins Cookers Ltd.",
+        "pc": 1.01,
+        "symbol": "LUXIND",
+        "diff": -4.61
+    }, {
+        "name": "Amara Raja Batteries Ltd.",
+        "pc": 0.99,
+        "symbol": "AMARAJABAT",
+        "diff": -6.35
+    }, {
+        "name": "V-Guard Industries Ltd.",
+        "pc": 0.95,
+        "symbol": "AMARAJABAT",
+        "diff": -1.12
+    }, {
+        "name": "Persistent Systems Ltd.",
+        "pc": 0.89,
+        "symbol": "PERSISTENT",
+        "diff": -2.34
+    }, {
+        "name": "Eris Lifesciences Ltd",
+        "pc": 0.86,
+        "symbol": "ERIS",
+        "diff": 1.86
+    }, {
+        "name": "SKF India Ltd.",
+        "pc": 0.85,
+        "symbol": "ERIS",
+        "diff": -1.04
+    }, {
+        "name": "Bata India Ltd.",
+        "pc": 0.81,
+        "symbol": "ERIS",
+        "diff": -1.34
+    }, {
+        "name": "Tube Investments Of India Ltd.",
+        "pc": 0.77,
+        "symbol": "TIINDIA",
+        "diff": -7.17
+    }, {
+        "name": "Emami Ltd.",
+        "pc": 0.73,
+        "symbol": "TIINDIA",
+        "diff": -2.95
+    }, {
+        "name": "Alkem Laboratories Ltd.",
+        "pc": 0.71,
+        "symbol": "TIINDIA",
+        "diff": -0.61
+    }, {
+        "name": "BEML Ltd",
+        "pc": 0.7,
+        "symbol": "BEML",
+        "diff": -5.47
+    }, {
+        "name": "Gujarat State Petronet Ltd.",
+        "pc": 0.67,
+        "symbol": "BEML",
+        "diff": -3.39
+    }, {
+        "name": "Bharti Retail Ltd",
+        "pc": 0.64,
+        "symbol": "FRETAIL",
+        "diff": -4.2
+    }, {
+        "name": "Laurus Labs Ltd.",
+        "pc": 0.63,
+        "symbol": "LAURUSLABS",
+        "diff": -0.23
+    }, {
+        "name": "PNC Infratech Ltd.",
+        "pc": 0.6,
+        "symbol": "LAURUSLABS",
+        "diff": -2.83
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 0.56,
+        "symbol": "LAURUSLABS",
+        "diff": -6.56
+    }, {
+        "name": "Kewal Kiran Clothing Ltd.",
+        "pc": 0.5,
+        "symbol": "LAURUSLABS",
+        "diff": -1.59
+    }, {
+        "name": "ICICI Securities Ltd.",
+        "pc": 0.46,
+        "symbol": "LAURUSLABS",
+        "diff": -3.14
+    }, {
+        "name": "Navneet Education Ltd.",
+        "pc": 0.41,
+        "symbol": "NAVNETEDUL",
+        "diff": -2.29
+    }, {
+        "name": "Edelweiss Financial Services Ltd.",
+        "pc": 0.37,
+        "symbol": "EDELWEISS",
+        "diff": -5.11
+    }, {
+        "name": "Kalpataru Power Transmission Ltd.",
+        "pc": 0.33,
+        "symbol": "KALPATPOWR",
+        "diff": -3.16
+    }, {
+        "name": "Kirloskar Oil Engines Ltd.",
+        "pc": 0.27,
+        "symbol": "KALPATPOWR",
+        "diff": -5.21
+    }, {
+        "name": "Ramkrishna Forgings Ltd.",
+        "pc": 0.21,
+        "symbol": "RKFORGE",
+        "diff": -10.9
+    }, {
+        "name": "WPIL Ltd.",
+        "pc": 0.06,
+        "symbol": "WPIL",
+        "diff": -1.29
+    }],
+    "equity": 94.33,
+    "change": -2.1357532739726035
+}, {
+    "name": "Invesco India Contra Fund",
+    "holdings": [{
+        "name": "ICICI Bank Ltd.",
+        "pc": 8.62,
+        "symbol": "WPIL",
+        "diff": -3.51
+    }, {
+        "name": "HDFC Bank Ltd.",
+        "pc": 8.56,
+        "symbol": "WPIL",
+        "diff": -1.82
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 6.7,
+        "symbol": "WPIL",
+        "diff": -4.16
+    }, {
+        "name": "Infosys Ltd.",
+        "pc": 5.81,
+        "symbol": "WPIL",
+        "diff": -5.93
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 4.13,
+        "symbol": "WPIL",
+        "diff": -5.24
+    }, {
+        "name": "Bharti Airtel Ltd.",
+        "pc": 3.35,
+        "symbol": "WPIL",
+        "diff": -1.53
+    }, {
+        "name": "State Bank of India",
+        "pc": 3.29,
+        "symbol": "WPIL",
+        "diff": -5.89
+    }, {
+        "name": "Sun Pharmaceutical Inds. Ltd.",
+        "pc": 2.34,
+        "symbol": "WPIL",
+        "diff": -4.02
+    }, {
+        "name": "HCL Technologies Ltd.",
+        "pc": 2.27,
+        "symbol": "HCLTECH",
+        "diff": -6.75
+    }, {
+        "name": "United Spirits Ltd.",
+        "pc": 2.12,
+        "symbol": "HCLTECH",
+        "diff": -0.01
+    }, {
+        "name": "Apollo Hospitals Enterprise Ltd.",
+        "pc": 1.97,
+        "symbol": "HCLTECH",
+        "diff": -3.32
+    }, {
+        "name": "Escorts Ltd.",
+        "pc": 1.95,
+        "symbol": "ESCORTS",
+        "diff": -4.59
+    }, {
+        "name": "Maruti Suzuki India Ltd.",
+        "pc": 1.9,
+        "symbol": "ESCORTS",
+        "diff": -0.11
+    }, {
+        "name": "Coromandel International Ltd.",
+        "pc": 1.89,
+        "symbol": "ESCORTS",
+        "diff": 0.15
+    }, {
+        "name": "National Thermal Power Corp. Ltd.",
+        "pc": 1.86,
+        "symbol": "ESCORTS",
+        "diff": -2.29
+    }, {
+        "name": "Cholamandalam Investment & Finance Co. Ltd.",
+        "pc": 1.83,
+        "symbol": "ESCORTS",
+        "diff": -2.56
+    }, {
+        "name": "Ultratech Cement Ltd.",
+        "pc": 1.66,
+        "symbol": "ULTRACEMCO",
+        "diff": -2.36
+    }, {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "pc": 1.62,
+        "symbol": "ULTRACEMCO",
+        "diff": -3.97
+    }, {
+        "name": "Hexaware Technologies Ltd.",
+        "pc": 1.61,
+        "symbol": "ULTRACEMCO",
+        "diff": -1.25
+    }, {
+        "name": "Torrent Power Ltd.",
+        "pc": 1.6,
+        "symbol": "ULTRACEMCO",
+        "diff": -1.62
+    }, {
+        "name": "Tech Mahindra Ltd.",
+        "pc": 1.54,
+        "symbol": "ULTRACEMCO",
+        "diff": -8.0
+    }, {
+        "name": "Indusind Bank Ltd.",
+        "pc": 1.52,
+        "symbol": "ULTRACEMCO",
+        "diff": -1.03
+    }, {
+        "name": "TVS Motor Co. Ltd.",
+        "pc": 1.49,
+        "symbol": "ULTRACEMCO",
+        "diff": -0.89
+    }, {
+        "name": "Ajanta Pharma Ltd.",
+        "pc": 1.34,
+        "symbol": "ULTRACEMCO",
+        "diff": -1.04
+    }, {
+        "name": "Exide Industries Ltd.",
+        "pc": 1.3,
+        "symbol": "ULTRACEMCO",
+        "diff": -3.97
+    }, {
+        "name": "Orient Electric Ltd.",
+        "pc": 1.29,
+        "symbol": "ULTRACEMCO",
+        "diff": -0.64
+    }, {
+        "name": "ITC Ltd.",
+        "pc": 1.27,
+        "symbol": "ITC",
+        "diff": 0.0
+    }, {
+        "name": "Gujarat Gas Ltd.",
+        "pc": 1.24,
+        "symbol": "ITC",
+        "diff": -3.58
+    }, {
+        "name": "Container Corpn. Of India Ltd.",
+        "pc": 1.13,
+        "symbol": "CONCOR",
+        "diff": -0.65
+    }, {
+        "name": "Central Depository Services (India) Ltd.",
+        "pc": 1.13,
+        "symbol": "CDSL",
+        "diff": -7.25
+    }, {
+        "name": "Bharat Petroleum Corpn. Ltd.",
+        "pc": 1.11,
+        "symbol": "BPCL",
+        "diff": -3.99
+    }, {
+        "name": "Motherson Sumi Systems Ltd.",
+        "pc": 1.11,
+        "symbol": "BPCL",
+        "diff": -5.0
+    }, {
+        "name": "Indian Railway Catering & Tourism Corpn. Ltd.",
+        "pc": 1.11,
+        "symbol": "BPCL",
+        "diff": -8.67
+    }, {
+        "name": "TI Financial Holdings Ltd.",
+        "pc": 1.08,
+        "symbol": "BPCL",
+        "diff": -7.17
+    }, {
+        "name": "KNR Constructions Ltd.",
+        "pc": 1.02,
+        "symbol": "BPCL",
+        "diff": -2.12
+    }, {
+        "name": "Tata Steel Ltd.",
+        "pc": 0.96,
+        "symbol": "BPCL",
+        "diff": -7.52
+    }, {
+        "name": "Motilal Oswal Financial Services Ltd",
+        "pc": 0.95,
+        "symbol": "BPCL",
+        "diff": -4.52
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 0.95,
+        "symbol": "BPCL",
+        "diff": -4.52
+    }, {
+        "name": "Cipla Ltd.",
+        "pc": 0.94,
+        "symbol": "CIPLA",
+        "diff": -4.53
+    }, {
+        "name": "Equitas Micro Finance India Pvt Ltd.",
+        "pc": 0.92,
+        "symbol": "CIPLA",
+        "diff": -5.27
+    }, {
+        "name": "Can Fin Homes Ltd.",
+        "pc": 0.88,
+        "symbol": "CIPLA",
+        "diff": -0.99
+    }, {
+        "name": "Torrent Pharmaceuticals Ltd.",
+        "pc": 0.81,
+        "symbol": "CIPLA",
+        "diff": -0.86
+    }, {
+        "name": "Mishra Dhatu Nigam Ltd.",
+        "pc": 0.75,
+        "symbol": "CIPLA",
+        "diff": -1.82
+    }, {
+        "name": "Muthoot Finance Ltd.",
+        "pc": 0.74,
+        "symbol": "CIPLA",
+        "diff": -5.43
+    }, {
+        "name": "Tata Motors Ltd.",
+        "pc": 0.73,
+        "symbol": "TATAMOTORS",
+        "diff": -11.22
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 0.67,
+        "symbol": "TATAMOTORS",
+        "diff": -6.56
+    }, {
+        "name": "KEC International Ltd.",
+        "pc": 0.66,
+        "symbol": "TATAMOTORS",
+        "diff": -2.3
+    }, {
+        "name": "Ashok Leyland Ltd.",
+        "pc": 0.6,
+        "symbol": "ASHOKLEY",
+        "diff": -8.03
+    }, {
+        "name": "Mphasis Ltd.",
+        "pc": 0.58,
+        "symbol": "ASHOKLEY",
+        "diff": -2.8
+    }, {
+        "name": "Great Eastern Shipping Company Ltd.",
+        "pc": 0.47,
+        "symbol": "ASHOKLEY",
+        "diff": -5.36
+    }, {
+        "name": "Apex Frozen Foods Ltd.",
+        "pc": 0.46,
+        "symbol": "APEX",
+        "diff": -7.72
+    }, {
+        "name": "Kei Industries Ltd.",
+        "pc": 0.45,
+        "symbol": "KEI",
+        "diff": -3.8
+    }, {
+        "name": "L&T Technology Services Ltd.",
+        "pc": 0.4,
+        "symbol": "KEI",
+        "diff": -3.22
+    }, {
+        "name": "Rallis India Ltd.",
+        "pc": 0.15,
+        "symbol": "KEI",
+        "diff": -2.67
+    }, {
+        "name": "Music Broadcast Pvt Ltd.",
+        "pc": 0.11,
+        "symbol": "KEI",
+        "diff": -3.18
+    }],
+    "equity": 96.94,
+    "change": -3.4019760684931515
+}, {
+    "name": "Mirae Asset Large Cap Fund",
+    "holdings": [{
+        "name": "HDFC Bank Ltd.",
+        "pc": 9.47,
+        "symbol": "KEI",
+        "diff": -1.82
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 7.81,
+        "symbol": "KEI",
+        "diff": -3.51
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 6.37,
+        "symbol": "KEI",
+        "diff": -4.16
+    }, {
+        "name": "Infosys Ltd.",
+        "pc": 5.27,
+        "symbol": "KEI",
+        "diff": -5.93
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 4.74,
+        "symbol": "KEI",
+        "diff": -1.88
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 4.67,
+        "symbol": "KEI",
+        "diff": -5.24
+    }, {
+        "name": "State Bank of India",
+        "pc": 4.51,
+        "symbol": "KEI",
+        "diff": -5.89
+    }, {
+        "name": "ITC Ltd.",
+        "pc": 3.58,
+        "symbol": "ITC",
+        "diff": 0.0
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 3.06,
+        "symbol": "ITC",
+        "diff": -5.0
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 2.74,
+        "symbol": "ITC",
+        "diff": -4.24
+    }, {
+        "name": "Maruti Suzuki India Ltd.",
+        "pc": 2.64,
+        "symbol": "ITC",
+        "diff": -0.11
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 2.35,
+        "symbol": "ITC",
+        "diff": -3.71
+    }, {
+        "name": "Indusind Bank Ltd.",
+        "pc": 2.06,
+        "symbol": "ITC",
+        "diff": -1.03
+    }, {
+        "name": "Dabur India Ltd.",
+        "pc": 1.99,
+        "symbol": "ITC",
+        "diff": -2.02
+    }, {
+        "name": "HDFC Standard Life Insurance Company Ltd.",
+        "pc": 1.89,
+        "symbol": "ITC",
+        "diff": -3.99
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 1.76,
+        "symbol": "ITC",
+        "diff": -2.3
+    }, {
+        "name": "National Thermal Power Corp. Ltd.",
+        "pc": 1.72,
+        "symbol": "ITC",
+        "diff": -2.29
+    }, {
+        "name": "Hindustan Petroleum Corpn. Ltd.",
+        "pc": 1.72,
+        "symbol": "ITC",
+        "diff": -3.35
+    }, {
+        "name": "Hindustan Unilever Ltd.",
+        "pc": 1.66,
+        "symbol": "ITC",
+        "diff": -3.56
+    }, {
+        "name": "Voltas Ltd.",
+        "pc": 1.45,
+        "symbol": "ITC",
+        "diff": -0.9
+    }, {
+        "name": "Havells India Ltd.",
+        "pc": 1.38,
+        "symbol": "ITC",
+        "diff": -4.02
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 1.34,
+        "symbol": "ITC",
+        "diff": -4.52
+    }, {
+        "name": "Torrent Pharmaceuticals Ltd.",
+        "pc": 1.21,
+        "symbol": "ITC",
+        "diff": -0.86
+    }, {
+        "name": "Power Finance Corpn. Ltd.",
+        "pc": 1.21,
+        "symbol": "ITC",
+        "diff": -12.51
+    }, {
+        "name": "Max Financial Services Ltd.",
+        "pc": 1.19,
+        "symbol": "ITC",
+        "diff": -3.41
+    }, {
+        "name": "Kajaria Ceramics Ltd.",
+        "pc": 1.15,
+        "symbol": "ITC",
+        "diff": -1.25
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 1.09,
+        "symbol": "ITC",
+        "diff": -6.56
+    }, {
+        "name": "Coal India Ltd.",
+        "pc": 0.99,
+        "symbol": "ITC",
+        "diff": -3.27
+    }, {
+        "name": "Page Industries Ltd.",
+        "pc": 0.97,
+        "symbol": "ITC",
+        "diff": 0.01
+    }, {
+        "name": "Ajanta Pharma Ltd.",
+        "pc": 0.95,
+        "symbol": "ITC",
+        "diff": -1.04
+    }, {
+        "name": "Britannia Industries Ltd.",
+        "pc": 0.93,
+        "symbol": "ITC",
+        "diff": -1.85
+    }, {
+        "name": "Eicher Motors Ltd.",
+        "pc": 0.93,
+        "symbol": "ITC",
+        "diff": -2.64
+    }, {
+        "name": "Tata Global Beverages Ltd.",
+        "pc": 0.92,
+        "symbol": "ITC",
+        "diff": -4.72
+    }, {
+        "name": "Sun Pharmaceutical Inds. Ltd.",
+        "pc": 0.89,
+        "symbol": "ITC",
+        "diff": -4.02
+    }, {
+        "name": "Info Edge (India) Ltd.",
+        "pc": 0.85,
+        "symbol": "ITC",
+        "diff": 1.02
+    }, {
+        "name": "Titan Company Ltd.",
+        "pc": 0.84,
+        "symbol": "ITC",
+        "diff": -1.83
+    }, {
+        "name": "Wipro Ltd.",
+        "pc": 0.84,
+        "symbol": "WIPRO",
+        "diff": -4.38
+    }, {
+        "name": "TVS Motor Co. Ltd.",
+        "pc": 0.84,
+        "symbol": "WIPRO",
+        "diff": -0.89
+    }, {
+        "name": "Grasim Industries Ltd.",
+        "pc": 0.82,
+        "symbol": "GRASIM",
+        "diff": -3.6
+    }, {
+        "name": "Indian Oil Corpn. Ltd.",
+        "pc": 0.78,
+        "symbol": "IOC",
+        "diff": 0.09
+    }, {
+        "name": "Petronet LNG Ltd.",
+        "pc": 0.76,
+        "symbol": "IOC",
+        "diff": -5.77
+    }, {
+        "name": "Tata Steel Ltd.",
+        "pc": 0.76,
+        "symbol": "IOC",
+        "diff": -7.52
+    }, {
+        "name": "Biocon Ltd.",
+        "pc": 0.7,
+        "symbol": "BIOCON",
+        "diff": -4.01
+    }, {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "pc": 0.66,
+        "symbol": "BIOCON",
+        "diff": -3.97
+    }, {
+        "name": "Indian Energy Exchange Ltd.",
+        "pc": 0.66,
+        "symbol": "BIOCON",
+        "diff": -7.04
+    }, {
+        "name": "Vinati Organics Ltd.",
+        "pc": 0.59,
+        "symbol": "BIOCON",
+        "diff": -5.7
+    }, {
+        "name": "Dr. Reddy's Laboratories Ltd.",
+        "pc": 0.56,
+        "symbol": "DRREDDY",
+        "diff": -4.56
+    }, {
+        "name": "Equitas Micro Finance India Pvt Ltd.",
+        "pc": 0.49,
+        "symbol": "DRREDDY",
+        "diff": -5.27
+    }, {
+        "name": "Tata Chemicals Ltd.",
+        "pc": 0.46,
+        "symbol": "DRREDDY",
+        "diff": -2.43
+    }, {
+        "name": "Raymond Ltd.",
+        "pc": 0.4,
+        "symbol": "DRREDDY",
+        "diff": -7.6
+    }, {
+        "name": "Aurobindo Pharma Ltd.",
+        "pc": 0.38,
+        "symbol": "AUROPHARMA",
+        "diff": -2.69
+    }, {
+        "name": "Bharti Airtel Ltd.",
+        "pc": 0.36,
+        "symbol": "AUROPHARMA",
+        "diff": -1.53
+    }, {
+        "name": "Asian Paints Ltd.",
+        "pc": 0.34,
+        "symbol": "AUROPHARMA",
+        "diff": -2.49
+    }, {
+        "name": "Zee Entertainment Enterprises Ltd.",
+        "pc": 0.32,
+        "symbol": "ZEEL",
+        "diff": -2.07
+    }, {
+        "name": "Power Grid Corpn. Of India Ltd.",
+        "pc": 0.14,
+        "symbol": "POWERGRID",
+        "diff": -2.65
+    }, {
+        "name": "L&T Technology Services Ltd.",
+        "pc": 0.04,
+        "symbol": "POWERGRID",
+        "diff": -3.22
+    }],
+    "equity": 99.211458,
+    "change": -3.325743115622005
+}, {
+    "name": "Kotak Standard Multicap Fund",
+    "holdings": [{
+        "name": "ICICI Bank Ltd.",
+        "pc": 7.06,
+        "symbol": "POWERGRID",
+        "diff": -3.51
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 6.24,
+        "symbol": "POWERGRID",
+        "diff": -4.16
+    }, {
+        "name": "HDFC Bank Ltd.",
+        "pc": 5.87,
+        "symbol": "POWERGRID",
+        "diff": -1.82
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 5.11,
+        "symbol": "POWERGRID",
+        "diff": -1.88
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 4.78,
+        "symbol": "POWERGRID",
+        "diff": -5.24
+    }, {
+        "name": "Infosys Ltd.",
+        "pc": 3.49,
+        "symbol": "POWERGRID",
+        "diff": -5.93
+    }, {
+        "name": "Ultratech Cement Ltd.",
+        "pc": 3.35,
+        "symbol": "POWERGRID",
+        "diff": -2.36
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 2.99,
+        "symbol": "POWERGRID",
+        "diff": -5.0
+    }, {
+        "name": "Petronet LNG Ltd.",
+        "pc": 2.63,
+        "symbol": "POWERGRID",
+        "diff": -5.77
+    }, {
+        "name": "Indraprastha Gas Ltd.",
+        "pc": 2.52,
+        "symbol": "POWERGRID",
+        "diff": -2.97
+    }, {
+        "name": "AU Financiers India Pvt. Ltd.",
+        "pc": 2.51,
+        "symbol": "POWERGRID",
+        "diff": -1.42
+    }, {
+        "name": "Nifty 50",
+        "pc": 2.49,
+        "symbol": "POWERGRID",
+        "diff": -3.71
+    }, {
+        "name": "SRF Ltd.",
+        "pc": 2.35,
+        "symbol": "POWERGRID",
+        "diff": -6.03
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 2.3,
+        "symbol": "POWERGRID",
+        "diff": -3.71
+    }, {
+        "name": "State Bank of India",
+        "pc": 2.09,
+        "symbol": "POWERGRID",
+        "diff": -5.89
+    }, {
+        "name": "The Ramco Cements Ltd.",
+        "pc": 1.92,
+        "symbol": "POWERGRID",
+        "diff": -1.33
+    }, {
+        "name": "Shree Cement Ltd.",
+        "pc": 1.85,
+        "symbol": "POWERGRID",
+        "diff": -4.79
+    }, {
+        "name": "ICICI Lombard General Insurance Comapny Limited",
+        "pc": 1.81,
+        "symbol": "POWERGRID",
+        "diff": -1.13
+    }, {
+        "name": "Interglobe Aviation Ltd.",
+        "pc": 1.71,
+        "symbol": "INDIGO",
+        "diff": -4.86
+    }, {
+        "name": "Jubilant FoodWorks Ltd.",
+        "pc": 1.67,
+        "symbol": "INDIGO",
+        "diff": -5.18
+    }, {
+        "name": "Container Corpn. Of India Ltd.",
+        "pc": 1.43,
+        "symbol": "INDIGO",
+        "diff": -0.65
+    }, {
+        "name": "Bajaj Finance Ltd.",
+        "pc": 1.41,
+        "symbol": "INDIGO",
+        "diff": -6.18
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 1.37,
+        "symbol": "INDIGO",
+        "diff": -4.52
+    }, {
+        "name": "Jindal Steel & Power Ltd.",
+        "pc": 1.27,
+        "symbol": "INDIGO",
+        "diff": -8.58
+    }, {
+        "name": "Britannia Industries Ltd.",
+        "pc": 1.26,
+        "symbol": "INDIGO",
+        "diff": -1.85
+    }, {
+        "name": "Hero Motocorp Ltd.",
+        "pc": 1.19,
+        "symbol": "HEROMOTOCO",
+        "diff": -2.77
+    }, {
+        "name": "Bharat Petroleum Corpn. Ltd.",
+        "pc": 1.17,
+        "symbol": "HEROMOTOCO",
+        "diff": -3.99
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 1.1,
+        "symbol": "HEROMOTOCO",
+        "diff": -4.24
+    }, {
+        "name": "Godrej Consumer Products Ltd.",
+        "pc": 1.1,
+        "symbol": "GODREJCP",
+        "diff": -5.75
+    }, {
+        "name": "Bata India Ltd.",
+        "pc": 1.1,
+        "symbol": "GODREJCP",
+        "diff": -1.34
+    }, {
+        "name": "MRF Ltd.",
+        "pc": 1.09,
+        "symbol": "GODREJCP",
+        "diff": -1.73
+    }, {
+        "name": "Bajaj Finserv Ltd.",
+        "pc": 1.08,
+        "symbol": "BAJAJFINSV",
+        "diff": -3.8
+    }, {
+        "name": "RBL Bank Ltd.",
+        "pc": 1.05,
+        "symbol": "BAJAJFINSV",
+        "diff": -6.04
+    }, {
+        "name": "Cadila Healthcare Ltd.",
+        "pc": 1.04,
+        "symbol": "BAJAJFINSV",
+        "diff": -0.54
+    }, {
+        "name": "GAIL (India) Ltd.",
+        "pc": 0.99,
+        "symbol": "GAIL",
+        "diff": -2.75
+    }, {
+        "name": "SBI Life Insurance Company Ltd.",
+        "pc": 0.98,
+        "symbol": "SBILIFE",
+        "diff": -1.65
+    }, {
+        "name": "HDFC Standard Life Insurance Company Ltd.",
+        "pc": 0.98,
+        "symbol": "SBILIFE",
+        "diff": -3.99
+    }, {
+        "name": "Indusind Bank Ltd.",
+        "pc": 0.95,
+        "symbol": "SBILIFE",
+        "diff": -1.03
+    }, {
+        "name": "Mahindra & Mahindra Ltd.",
+        "pc": 0.93,
+        "symbol": "SBILIFE",
+        "diff": -7.39
+    }, {
+        "name": "United Breweries Ltd.",
+        "pc": 0.92,
+        "symbol": "UBL",
+        "diff": -0.33
+    }, {
+        "name": "KEC International Ltd.",
+        "pc": 0.89,
+        "symbol": "UBL",
+        "diff": -2.3
+    }, {
+        "name": "Thermax Ltd.",
+        "pc": 0.84,
+        "symbol": "UBL",
+        "diff": -0.93
+    }, {
+        "name": "Lupin Ltd.",
+        "pc": 0.71,
+        "symbol": "LUPIN",
+        "diff": -3.44
+    }, {
+        "name": "Hindustan Unilever Ltd.",
+        "pc": 0.63,
+        "symbol": "LUPIN",
+        "diff": -3.56
+    }, {
+        "name": "AIA Engineering Ltd.",
+        "pc": 0.6,
+        "symbol": "LUPIN",
+        "diff": -2.64
+    }, {
+        "name": "Max Financial Services Ltd.",
+        "pc": 0.52,
+        "symbol": "LUPIN",
+        "diff": -3.41
+    }, {
+        "name": "Balkrishna Industries Ltd.",
+        "pc": 0.5,
+        "symbol": "LUPIN",
+        "diff": -6.56
+    }, {
+        "name": "Solar Industries India Ltd.",
+        "pc": 0.44,
+        "symbol": "LUPIN",
+        "diff": -1.86
+    }, {
+        "name": "Bayer CropScience Ltd.",
+        "pc": 0.35,
+        "symbol": "BAYERCROP",
+        "diff": 1.32
+    }, {
+        "name": "Century Textiles & Inds. Ltd.",
+        "pc": 0.34,
+        "symbol": "BAYERCROP",
+        "diff": -6.64
+    }, {
+        "name": "BEML Ltd",
+        "pc": 0.3,
+        "symbol": "BAYERCROP",
+        "diff": -5.47
+    }, {
+        "name": "Whirlpool Of India Ltd.",
+        "pc": 0.23,
+        "symbol": "BAYERCROP",
+        "diff": -1.86
+    }, {
+        "name": "Simran Wind Project Ltd.",
+        "pc": 0.18,
+        "symbol": "UNK:X",
+        "diff": 0
+    }, {
+        "name": "Arvind Fashions Ltd.",
+        "pc": 0.13,
+        "symbol": "ARVINDFASN",
+        "diff": -1.24
+    }, {
+        "name": "Arvind Ltd.",
+        "pc": 0.06,
+        "symbol": "ARVIND",
+        "diff": -3.37
+    }],
+    "equity": 93.70577376,
+    "change": -3.2584705480460237
+}, {
+    "name": "Invesco India Growth Opportunities Fund",
+    "holdings": [{
+        "name": "HDFC Bank Ltd.",
+        "pc": 6.79,
+        "symbol": "ARVIND",
+        "diff": -1.82
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 6.07,
+        "symbol": "ARVIND",
+        "diff": -4.16
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 5.26,
+        "symbol": "ARVIND",
+        "diff": -3.51
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 4.93,
+        "symbol": "ARVIND",
+        "diff": -4.24
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 3.3,
+        "symbol": "ARVIND",
+        "diff": -3.71
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 3.29,
+        "symbol": "ARVIND",
+        "diff": -5.0
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 2.88,
+        "symbol": "ARVIND",
+        "diff": -1.88
+    }, {
+        "name": "Indraprastha Gas Ltd.",
+        "pc": 2.81,
+        "symbol": "ARVIND",
+        "diff": -2.97
+    }, {
+        "name": "Hindustan Unilever Ltd.",
+        "pc": 2.75,
+        "symbol": "ARVIND",
+        "diff": -3.56
+    }, {
+        "name": "Apollo Hospitals Enterprise Ltd.",
+        "pc": 2.6,
+        "symbol": "ARVIND",
+        "diff": -3.32
+    }, {
+        "name": "Axis Bank Ltd.",
+        "pc": 2.57,
+        "symbol": "ARVIND",
+        "diff": -5.24
+    }, {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "pc": 2.39,
+        "symbol": "ARVIND",
+        "diff": -3.97
+    }, {
+        "name": "Cholamandalam Investment & Finance Co. Ltd.",
+        "pc": 2.28,
+        "symbol": "ARVIND",
+        "diff": -2.56
+    }, {
+        "name": "Whirlpool Of India Ltd.",
+        "pc": 2.16,
+        "symbol": "ARVIND",
+        "diff": -1.86
+    }, {
+        "name": "The Ramco Cements Ltd.",
+        "pc": 2.1,
+        "symbol": "ARVIND",
+        "diff": -1.33
+    }, {
+        "name": "Gujarat State Petronet Ltd.",
+        "pc": 2.1,
+        "symbol": "ARVIND",
+        "diff": -3.39
+    }, {
+        "name": "United Spirits Ltd.",
+        "pc": 2.07,
+        "symbol": "ARVIND",
+        "diff": -0.01
+    }, {
+        "name": "Hexaware Technologies Ltd.",
+        "pc": 2.05,
+        "symbol": "ARVIND",
+        "diff": -1.25
+    }, {
+        "name": "Voltas Ltd.",
+        "pc": 2.0,
+        "symbol": "ARVIND",
+        "diff": -0.9
+    }, {
+        "name": "Reliance Nippon Life Asset Management Limited.",
+        "pc": 1.93,
+        "symbol": "ARVIND",
+        "diff": -6.53
+    }, {
+        "name": "Mphasis Ltd.",
+        "pc": 1.92,
+        "symbol": "ARVIND",
+        "diff": -2.8
+    }, {
+        "name": "Exide Industries Ltd.",
+        "pc": 1.9,
+        "symbol": "ARVIND",
+        "diff": -3.97
+    }, {
+        "name": "SBI Life Insurance Company Ltd.",
+        "pc": 1.83,
+        "symbol": "ARVIND",
+        "diff": -1.65
+    }, {
+        "name": "Ajanta Pharma Ltd.",
+        "pc": 1.56,
+        "symbol": "ARVIND",
+        "diff": -1.04
+    }, {
+        "name": "Bharti Airtel Ltd.",
+        "pc": 1.51,
+        "symbol": "ARVIND",
+        "diff": -1.53
+    }, {
+        "name": "Sun Pharmaceutical Inds. Ltd.",
+        "pc": 1.5,
+        "symbol": "ARVIND",
+        "diff": -4.02
+    }, {
+        "name": "Ultratech Cement Ltd.",
+        "pc": 1.44,
+        "symbol": "ARVIND",
+        "diff": -2.36
+    }, {
+        "name": "Bajaj Finance Ltd.",
+        "pc": 1.4,
+        "symbol": "ARVIND",
+        "diff": -6.18
+    }, {
+        "name": "Muthoot Finance Ltd.",
+        "pc": 1.39,
+        "symbol": "ARVIND",
+        "diff": -5.43
+    }, {
+        "name": "Bharat Electronics Ltd.",
+        "pc": 1.36,
+        "symbol": "ARVIND",
+        "diff": -4.52
+    }, {
+        "name": "Bata India Ltd.",
+        "pc": 1.35,
+        "symbol": "ARVIND",
+        "diff": -1.34
+    }, {
+        "name": "TVS Motor Co. Ltd.",
+        "pc": 1.31,
+        "symbol": "ARVIND",
+        "diff": -0.89
+    }, {
+        "name": "United Breweries Ltd.",
+        "pc": 1.25,
+        "symbol": "ARVIND",
+        "diff": -0.33
+    }, {
+        "name": "Indusind Bank Ltd.",
+        "pc": 1.25,
+        "symbol": "ARVIND",
+        "diff": -1.03
+    }, {
+        "name": "FAG Bearings India Ltd.",
+        "pc": 1.23,
+        "symbol": "ARVIND",
+        "diff": -3.34
+    }, {
+        "name": "ICICI Lombard General Insurance Comapny Limited",
+        "pc": 1.22,
+        "symbol": "ARVIND",
+        "diff": -1.13
+    }, {
+        "name": "Maruti Suzuki India Ltd.",
+        "pc": 1.21,
+        "symbol": "ARVIND",
+        "diff": -0.11
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 1.16,
+        "symbol": "ARVIND",
+        "diff": -2.3
+    }, {
+        "name": "Container Corpn. Of India Ltd.",
+        "pc": 1.1,
+        "symbol": "ARVIND",
+        "diff": -0.65
+    }, {
+        "name": "Titan Company Ltd.",
+        "pc": 1.09,
+        "symbol": "ARVIND",
+        "diff": -1.83
+    }, {
+        "name": "Motherson Sumi Systems Ltd.",
+        "pc": 1.08,
+        "symbol": "ARVIND",
+        "diff": -5.0
+    }, {
+        "name": "Phoenix Mills Ltd.",
+        "pc": 1.0,
+        "symbol": "ARVIND",
+        "diff": -3.16
+    }, {
+        "name": "Vinati Organics Ltd.",
+        "pc": 0.8,
+        "symbol": "ARVIND",
+        "diff": -5.7
+    }, {
+        "name": "Abbott India Ltd.",
+        "pc": 0.64,
+        "symbol": "ARVIND",
+        "diff": -2.88
+    }, {
+        "name": "Minda Industries Ltd.",
+        "pc": 0.62,
+        "symbol": "ARVIND",
+        "diff": 0.24
+    }, {
+        "name": "RBL Bank Ltd.",
+        "pc": 0.62,
+        "symbol": "ARVIND",
+        "diff": -6.04
+    }],
+    "equity": 95.07,
+    "change": -2.7398090547945206
+}, {
+    "name": "Axis Focused 25 Fund",
+    "holdings": [{
+        "name": "Bajaj Finance Ltd.",
+        "pc": 8.61,
+        "symbol": "ARVIND",
+        "diff": -6.18
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 8.45,
+        "symbol": "ARVIND",
+        "diff": -3.71
+    }, {
+        "name": "Bajaj Finserv Ltd.",
+        "pc": 8.21,
+        "symbol": "ARVIND",
+        "diff": -3.8
+    }, {
+        "name": "Avenue Supermarts Ltd.",
+        "pc": 6.98,
+        "symbol": "ARVIND",
+        "diff": 0.18
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 5.72,
+        "symbol": "ARVIND",
+        "diff": -4.24
+    }, {
+        "name": "Info Edge (India) Ltd.",
+        "pc": 5.08,
+        "symbol": "ARVIND",
+        "diff": 1.02
+    }, {
+        "name": "Supreme Industries Ltd.",
+        "pc": 5.08,
+        "symbol": "ARVIND",
+        "diff": -4.35
+    }, {
+        "name": "HDFC Bank Ltd.",
+        "pc": 5.02,
+        "symbol": "ARVIND",
+        "diff": -1.82
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 4.98,
+        "symbol": "ARVIND",
+        "diff": -5.0
+    }, {
+        "name": "Pidilite Industries Ltd.",
+        "pc": 4.95,
+        "symbol": "PIDILITIND",
+        "diff": -2.57
+    }, {
+        "name": "Asian Paints Ltd.",
+        "pc": 4.62,
+        "symbol": "PIDILITIND",
+        "diff": -2.49
+    }, {
+        "name": "Maruti Suzuki India Ltd.",
+        "pc": 4.42,
+        "symbol": "PIDILITIND",
+        "diff": -0.11
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 3.85,
+        "symbol": "PIDILITIND",
+        "diff": -4.16
+    }, {
+        "name": "Bandhan Bank Ltd.",
+        "pc": 3.73,
+        "symbol": "PIDILITIND",
+        "diff": -3.84
+    }, {
+        "name": "Shree Cement Ltd.",
+        "pc": 3.46,
+        "symbol": "PIDILITIND",
+        "diff": -4.79
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 2.05,
+        "symbol": "PIDILITIND",
+        "diff": -2.3
+    }, {
+        "name": "Bharti Airtel Ltd.",
+        "pc": 1.63,
+        "symbol": "PIDILITIND",
+        "diff": -1.53
+    }, {
+        "name": "Wabco India Ltd.",
+        "pc": 1.47,
+        "symbol": "PIDILITIND",
+        "diff": -0.1
+    }, {
+        "name": "V-Guard Industries Ltd.",
+        "pc": 1.46,
+        "symbol": "PIDILITIND",
+        "diff": -1.12
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 1.43,
+        "symbol": "PIDILITIND",
+        "diff": -3.51
+    }, {
+        "name": "Cummins India Ltd.",
+        "pc": 1.17,
+        "symbol": "PIDILITIND",
+        "diff": -1.38
+    }, {
+        "name": "Endurance Technologies Ltd.",
+        "pc": 0.76,
+        "symbol": "PIDILITIND",
+        "diff": -0.82
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 0.32,
+        "symbol": "PIDILITIND",
+        "diff": -1.88
+    }],
+    "equity": 93.45,
+    "change": -2.656187561643836
+}, {
+    "name": "Axis Bluechip Fund",
+    "holdings": [{
+        "name": "HDFC Bank Ltd.",
+        "pc": 9.19,
+        "symbol": "PIDILITIND",
+        "diff": -1.82
+    }, {
+        "name": "Bajaj Finance Ltd.",
+        "pc": 8.38,
+        "symbol": "PIDILITIND",
+        "diff": -6.18
+    }, {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "pc": 8.02,
+        "symbol": "PIDILITIND",
+        "diff": -3.71
+    }, {
+        "name": "ICICI Bank Ltd.",
+        "pc": 7.9,
+        "symbol": "PIDILITIND",
+        "diff": -3.51
+    }, {
+        "name": "Avenue Supermarts Ltd.",
+        "pc": 6.01,
+        "symbol": "PIDILITIND",
+        "diff": 0.18
+    }, {
+        "name": "Housing Development Finance Corpn. Ltd.",
+        "pc": 5.88,
+        "symbol": "PIDILITIND",
+        "diff": -4.24
+    }, {
+        "name": "Infosys Ltd.",
+        "pc": 5.6,
+        "symbol": "PIDILITIND",
+        "diff": -5.93
+    }, {
+        "name": "Asian Paints Ltd.",
+        "pc": 4.24,
+        "symbol": "PIDILITIND",
+        "diff": -2.49
+    }, {
+        "name": "Bajaj Finserv Ltd.",
+        "pc": 3.67,
+        "symbol": "PIDILITIND",
+        "diff": -3.8
+    }, {
+        "name": "Hindustan Unilever Ltd.",
+        "pc": 3.47,
+        "symbol": "PIDILITIND",
+        "diff": -3.56
+    }, {
+        "name": "Nestle India Ltd.",
+        "pc": 3.42,
+        "symbol": "NESTLEIND",
+        "diff": -2.98
+    }, {
+        "name": "Maruti Suzuki India Ltd.",
+        "pc": 3.25,
+        "symbol": "NESTLEIND",
+        "diff": -0.11
+    }, {
+        "name": "Reliance Industries Ltd.",
+        "pc": 3.25,
+        "symbol": "NESTLEIND",
+        "diff": -4.16
+    }, {
+        "name": "Nifty 50",
+        "pc": 2.96,
+        "symbol": "NESTLEIND",
+        "diff": -3.71
+    }, {
+        "name": "Tata Consultancy Services Ltd.",
+        "pc": 2.82,
+        "symbol": "NESTLEIND",
+        "diff": -5.0
+    }, {
+        "name": "Bharti Airtel Ltd.",
+        "pc": 2.43,
+        "symbol": "NESTLEIND",
+        "diff": -1.53
+    }, {
+        "name": "Ultratech Cement Ltd.",
+        "pc": 1.75,
+        "symbol": "NESTLEIND",
+        "diff": -2.36
+    }, {
+        "name": "Bandhan Bank Ltd.",
+        "pc": 1.46,
+        "symbol": "NESTLEIND",
+        "diff": -3.84
+    }, {
+        "name": "Titan Company Ltd.",
+        "pc": 1.31,
+        "symbol": "NESTLEIND",
+        "diff": -1.83
+    }, {
+        "name": "Tech Mahindra Ltd.",
+        "pc": 1.08,
+        "symbol": "NESTLEIND",
+        "diff": -8.0
+    }, {
+        "name": "Pidilite Industries Ltd.",
+        "pc": 1.05,
+        "symbol": "NESTLEIND",
+        "diff": -2.57
+    }, {
+        "name": "Divi's Laboratories Ltd.",
+        "pc": 0.98,
+        "symbol": "NESTLEIND",
+        "diff": -2.3
+    }, {
+        "name": "Larsen & Toubro Ltd.",
+        "pc": 0.92,
+        "symbol": "NESTLEIND",
+        "diff": -1.88
+    }, {
+        "name": "Astral Poly Technik Ltd.",
+        "pc": 0.35,
+        "symbol": "NESTLEIND",
+        "diff": -2.05
+    }, {
+        "name": "Eicher Motors Ltd.",
+        "pc": 0.27,
+        "symbol": "NESTLEIND",
+        "diff": -2.64
+    }],
+    "equity": 89.66,
+    "change": -2.818361630136987
+}]
